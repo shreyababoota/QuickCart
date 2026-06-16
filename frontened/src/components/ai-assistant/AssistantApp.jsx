@@ -477,6 +477,9 @@ import { useNavigate } from 'react-router-dom';
 import { toast } from 'sonner';
 const AI_URL = import.meta.env.VITE_AI_URL;
 
+console.log("ENV:", import.meta.env);
+console.log("AI_URL:", import.meta.env.VITE_AI_URL);
+
 const WELCOME = {
   role: 'assistant',
   content: "Hi! I'm QuickCart AI 🛒 I'll help you build your cart as we chat. What are you shopping for today? You can also tell me your budget!",
