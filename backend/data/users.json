@@ -1,0 +1,777 @@
+[
+  {
+    "user_id": "u001",
+    "name": "Rahul Sharma",
+    "age": 22,
+    "city": "Lucknow",
+    "persona": "health_conscious",
+    "preferences": [
+      "healthy food",
+      "vegetarian"
+    ],
+    "favorite_categories": [
+      "Fruits",
+      "Dairy"
+    ],
+    "primary_intent": "healthy breakfast",
+    "recent_intents": [
+      "healthy breakfast",
+      "fitness nutrition",
+      "healthy lifestyle"
+    ],
+    "avg_order_value": 320,
+    "signup_date": "2025-10-12",
+    "loyalty_tier": "silver",
+    "total_orders": 24,
+    "lat": 26.855066,
+    "lon": 80.917701
+  },
+  {
+    "user_id": "u002",
+    "name": "Priya Verma",
+    "age": 21,
+    "city": "Lucknow",
+    "persona": "student",
+    "preferences": [
+      "snacks",
+      "beverages"
+    ],
+    "favorite_categories": [
+      "Snacks",
+      "Beverages"
+    ],
+    "primary_intent": "movie night",
+    "recent_intents": [
+      "movie night",
+      "party snacks",
+      "weekend binge"
+    ],
+    "avg_order_value": 280,
+    "signup_date": "2026-01-15",
+    "loyalty_tier": "bronze",
+    "total_orders": 8,
+    "lat": 26.833202,
+    "lon": 80.929593
+  },
+  {
+    "user_id": "u003",
+    "name": "Aman Singh",
+    "age": 23,
+    "city": "Kanpur",
+    "persona": "student",
+    "preferences": [
+      "quick meals",
+      "energy drinks"
+    ],
+    "favorite_categories": [
+      "Instant Food",
+      "Beverages"
+    ],
+    "primary_intent": "late night study",
+    "recent_intents": [
+      "late night study",
+      "exam prep",
+      "quick meals"
+    ],
+    "avg_order_value": 350,
+    "signup_date": "2025-08-20",
+    "loyalty_tier": "silver",
+    "total_orders": 21,
+    "lat": 26.464088,
+    "lon": 80.342502
+  },
+  {
+    "user_id": "u004",
+    "name": "Sneha Gupta",
+    "age": 24,
+    "city": "Lucknow",
+    "persona": "fitness_enthusiast",
+    "preferences": [
+      "healthy eating",
+      "fitness"
+    ],
+    "favorite_categories": [
+      "Fruits",
+      "Health"
+    ],
+    "primary_intent": "healthy lifestyle",
+    "recent_intents": [
+      "healthy lifestyle",
+      "fitness nutrition",
+      "healthy breakfast"
+    ],
+    "avg_order_value": 400,
+    "signup_date": "2025-05-18",
+    "loyalty_tier": "gold",
+    "total_orders": 46,
+    "lat": 26.870231,
+    "lon": 80.921416
+  },
+  {
+    "user_id": "u005",
+    "name": "Arjun Mishra",
+    "age": 20,
+    "city": "Prayagraj",
+    "persona": "student",
+    "preferences": [
+      "late night snacks",
+      "soft drinks"
+    ],
+    "favorite_categories": [
+      "Snacks",
+      "Beverages"
+    ],
+    "primary_intent": "late night cravings",
+    "recent_intents": [
+      "late night cravings",
+      "movie night",
+      "quick meals"
+    ],
+    "avg_order_value": 260,
+    "signup_date": "2026-02-10",
+    "loyalty_tier": "bronze",
+    "total_orders": 12,
+    "lat": 25.431115,
+    "lon": 81.818088
+  },
+  {
+    "user_id": "u006",
+    "name": "Ananya Tiwari",
+    "age": 22,
+    "city": "Lucknow",
+    "persona": "student",
+    "preferences": [
+      "bakery",
+      "desserts"
+    ],
+    "favorite_categories": [
+      "Bakery"
+    ],
+    "primary_intent": "tea time snacks",
+    "recent_intents": [
+      "tea time snacks",
+      "bakery treats",
+      "sweet cravings"
+    ],
+    "avg_order_value": 240,
+    "signup_date": "2025-12-01",
+    "loyalty_tier": "silver",
+    "total_orders": 18,
+    "lat": 26.829818,
+    "lon": 80.946521
+  },
+  {
+    "user_id": "u007",
+    "name": "Vivek Yadav",
+    "age": 25,
+    "city": "Varanasi",
+    "persona": "family_shopper",
+    "preferences": [
+      "groceries",
+      "family shopping"
+    ],
+    "favorite_categories": [
+      "Groceries"
+    ],
+    "primary_intent": "monthly grocery",
+    "recent_intents": [
+      "monthly grocery",
+      "family essentials",
+      "cooking tonight"
+    ],
+    "avg_order_value": 850,
+    "signup_date": "2024-11-08",
+    "loyalty_tier": "gold",
+    "total_orders": 63,
+    "lat": 25.289192,
+    "lon": 82.95583
+  },
+  {
+    "user_id": "u008",
+    "name": "Neha Singh",
+    "age": 23,
+    "city": "Lucknow",
+    "persona": "health_conscious",
+    "preferences": [
+      "health products"
+    ],
+    "favorite_categories": [
+      "Health"
+    ],
+    "primary_intent": "health and wellness",
+    "recent_intents": [
+      "health and wellness",
+      "immunity boost",
+      "sick day"
+    ],
+    "avg_order_value": 300,
+    "signup_date": "2025-07-22",
+    "loyalty_tier": "silver",
+    "total_orders": 27,
+    "lat": 26.855693,
+    "lon": 80.948896
+  },
+  {
+    "user_id": "u009",
+    "name": "Rohit Kumar",
+    "age": 21,
+    "city": "Kanpur",
+    "persona": "student",
+    "preferences": [
+      "movie night snacks"
+    ],
+    "favorite_categories": [
+      "Snacks"
+    ],
+    "primary_intent": "movie night",
+    "recent_intents": [
+      "movie night",
+      "party snacks",
+      "weekend binge"
+    ],
+    "avg_order_value": 220,
+    "signup_date": "2026-03-02",
+    "loyalty_tier": "bronze",
+    "total_orders": 7,
+    "lat": 26.433126,
+    "lon": 80.337256
+  },
+  {
+    "user_id": "u010",
+    "name": "Isha Saxena",
+    "age": 22,
+    "city": "Lucknow",
+    "persona": "working_professional",
+    "preferences": [
+      "personal care",
+      "health"
+    ],
+    "favorite_categories": [
+      "Personal Care"
+    ],
+    "primary_intent": "personal care essentials",
+    "recent_intents": [
+      "personal care essentials",
+      "daily essentials",
+      "health and wellness"
+    ],
+    "avg_order_value": 380,
+    "signup_date": "2025-04-15",
+    "loyalty_tier": "silver",
+    "total_orders": 31,
+    "lat": 26.865266,
+    "lon": 80.91659
+  },
+  {
+    "user_id": "u011",
+    "name": "Karan Patel",
+    "age": 24,
+    "city": "Noida",
+    "persona": "fitness_enthusiast",
+    "preferences": [
+      "fitness",
+      "protein"
+    ],
+    "favorite_categories": [
+      "Dairy",
+      "Fruits"
+    ],
+    "primary_intent": "fitness nutrition",
+    "recent_intents": [
+      "fitness nutrition",
+      "healthy breakfast",
+      "healthy lifestyle"
+    ],
+    "avg_order_value": 450,
+    "signup_date": "2025-03-18",
+    "loyalty_tier": "gold",
+    "total_orders": 52,
+    "lat": 28.553849,
+    "lon": 77.402888
+  },
+  {
+    "user_id": "u012",
+    "name": "Shreya Srivastava",
+    "age": 20,
+    "city": "Lucknow",
+    "persona": "student",
+    "preferences": [
+      "healthy breakfast"
+    ],
+    "favorite_categories": [
+      "Dairy",
+      "Bakery"
+    ],
+    "primary_intent": "healthy breakfast",
+    "recent_intents": [
+      "healthy breakfast",
+      "morning tea",
+      "healthy lifestyle"
+    ],
+    "avg_order_value": 280,
+    "signup_date": "2025-11-10",
+    "loyalty_tier": "silver",
+    "total_orders": 19,
+    "lat": 26.837115,
+    "lon": 80.925529
+  },
+  {
+    "user_id": "u013",
+    "name": "Harsh Gupta",
+    "age": 23,
+    "city": "Kanpur",
+    "persona": "student",
+    "preferences": [
+      "instant food"
+    ],
+    "favorite_categories": [
+      "Instant Food"
+    ],
+    "primary_intent": "quick meals",
+    "recent_intents": [
+      "quick meals",
+      "late night study",
+      "busy day"
+    ],
+    "avg_order_value": 260,
+    "signup_date": "2026-01-05",
+    "loyalty_tier": "bronze",
+    "total_orders": 13,
+    "lat": 26.477333,
+    "lon": 80.322096
+  },
+  {
+    "user_id": "u014",
+    "name": "Riya Agarwal",
+    "age": 22,
+    "city": "Lucknow",
+    "persona": "student",
+    "preferences": [
+      "tea time snacks"
+    ],
+    "favorite_categories": [
+      "Bakery",
+      "Snacks"
+    ],
+    "primary_intent": "tea time snacks",
+    "recent_intents": [
+      "tea time snacks",
+      "bakery treats",
+      "sweet cravings"
+    ],
+    "avg_order_value": 230,
+    "signup_date": "2025-09-14",
+    "loyalty_tier": "silver",
+    "total_orders": 22,
+    "lat": 26.822265,
+    "lon": 80.922003
+  },
+  {
+    "user_id": "u015",
+    "name": "Aditya Singh",
+    "age": 21,
+    "city": "Lucknow",
+    "persona": "student",
+    "preferences": [
+      "student budget"
+    ],
+    "favorite_categories": [
+      "Instant Food",
+      "Snacks"
+    ],
+    "primary_intent": "student budget meals",
+    "recent_intents": [
+      "student budget meals",
+      "late night study",
+      "quick meals"
+    ],
+    "avg_order_value": 180,
+    "signup_date": "2026-02-18",
+    "loyalty_tier": "bronze",
+    "total_orders": 9,
+    "lat": 26.86755,
+    "lon": 80.952424
+  },
+  {
+    "user_id": "u016",
+    "name": "Pooja Verma",
+    "age": 26,
+    "city": "Prayagraj",
+    "persona": "family_shopper",
+    "preferences": [
+      "family groceries"
+    ],
+    "favorite_categories": [
+      "Groceries"
+    ],
+    "primary_intent": "monthly grocery",
+    "recent_intents": [
+      "monthly grocery",
+      "family essentials",
+      "cooking tonight"
+    ],
+    "avg_order_value": 900,
+    "signup_date": "2024-10-20",
+    "loyalty_tier": "gold",
+    "total_orders": 71,
+    "lat": 25.454228,
+    "lon": 81.860084
+  },
+  {
+    "user_id": "u017",
+    "name": "Nitin Yadav",
+    "age": 24,
+    "city": "Lucknow",
+    "persona": "working_professional",
+    "preferences": [
+      "soft drinks"
+    ],
+    "favorite_categories": [
+      "Beverages"
+    ],
+    "primary_intent": "party beverages",
+    "recent_intents": [
+      "party beverages",
+      "movie night",
+      "weekend gathering"
+    ],
+    "avg_order_value": 250,
+    "signup_date": "2025-08-01",
+    "loyalty_tier": "silver",
+    "total_orders": 26,
+    "lat": 26.848874,
+    "lon": 80.974587
+  },
+  {
+    "user_id": "u018",
+    "name": "Sakshi Mishra",
+    "age": 22,
+    "city": "Lucknow",
+    "persona": "health_conscious",
+    "preferences": [
+      "fruits",
+      "healthy lifestyle"
+    ],
+    "favorite_categories": [
+      "Fruits"
+    ],
+    "primary_intent": "healthy lifestyle",
+    "recent_intents": [
+      "healthy lifestyle",
+      "healthy breakfast",
+      "fitness nutrition"
+    ],
+    "avg_order_value": 340,
+    "signup_date": "2025-06-11",
+    "loyalty_tier": "silver",
+    "total_orders": 29,
+    "lat": 26.839412,
+    "lon": 80.949322
+  },
+  {
+    "user_id": "u019",
+    "name": "Yash Jain",
+    "age": 23,
+    "city": "Noida",
+    "persona": "student",
+    "preferences": [
+      "late night study"
+    ],
+    "favorite_categories": [
+      "Instant Food",
+      "Beverages"
+    ],
+    "primary_intent": "late night study",
+    "recent_intents": [
+      "late night study",
+      "exam prep",
+      "energy boost"
+    ],
+    "avg_order_value": 290,
+    "signup_date": "2025-10-30",
+    "loyalty_tier": "silver",
+    "total_orders": 17,
+    "lat": 28.555264,
+    "lon": 77.398111
+  },
+  {
+    "user_id": "u020",
+    "name": "Aditi Kapoor",
+    "age": 21,
+    "city": "Lucknow",
+    "persona": "working_professional",
+    "preferences": [
+      "personal care"
+    ],
+    "favorite_categories": [
+      "Personal Care"
+    ],
+    "primary_intent": "personal care essentials",
+    "recent_intents": [
+      "personal care essentials",
+      "daily essentials",
+      "grooming"
+    ],
+    "avg_order_value": 320,
+    "signup_date": "2025-07-05",
+    "loyalty_tier": "silver",
+    "total_orders": 24,
+    "lat": 26.868402,
+    "lon": 80.950841
+  },
+  {
+    "user_id": "u021",
+    "name": "Ritesh Kumar",
+    "age": 24,
+    "city": "Kanpur",
+    "persona": "working_professional",
+    "preferences": [
+      "quick meals"
+    ],
+    "favorite_categories": [
+      "Instant Food"
+    ],
+    "primary_intent": "quick meals",
+    "recent_intents": [
+      "quick meals",
+      "busy day",
+      "late night cravings"
+    ],
+    "avg_order_value": 270,
+    "signup_date": "2025-12-22",
+    "loyalty_tier": "bronze",
+    "total_orders": 14,
+    "lat": 26.462174,
+    "lon": 80.304649
+  },
+  {
+    "user_id": "u022",
+    "name": "Simran Kaur",
+    "age": 22,
+    "city": "Lucknow",
+    "persona": "health_conscious",
+    "preferences": [
+      "healthy food"
+    ],
+    "favorite_categories": [
+      "Fruits",
+      "Health"
+    ],
+    "primary_intent": "healthy lifestyle",
+    "recent_intents": [
+      "healthy lifestyle",
+      "fitness nutrition",
+      "immunity boost"
+    ],
+    "avg_order_value": 410,
+    "signup_date": "2025-03-25",
+    "loyalty_tier": "gold",
+    "total_orders": 43,
+    "lat": 26.830374,
+    "lon": 80.933563
+  },
+  {
+    "user_id": "u023",
+    "name": "Abhishek Tiwari",
+    "age": 23,
+    "city": "Lucknow",
+    "persona": "family_shopper",
+    "preferences": [
+      "groceries"
+    ],
+    "favorite_categories": [
+      "Groceries"
+    ],
+    "primary_intent": "monthly grocery",
+    "recent_intents": [
+      "monthly grocery",
+      "family dinner",
+      "cooking tonight"
+    ],
+    "avg_order_value": 780,
+    "signup_date": "2024-12-15",
+    "loyalty_tier": "gold",
+    "total_orders": 58,
+    "lat": 26.821488,
+    "lon": 80.930167
+  },
+  {
+    "user_id": "u024",
+    "name": "Muskan Sharma",
+    "age": 20,
+    "city": "Lucknow",
+    "persona": "student",
+    "preferences": [
+      "snacks",
+      "cookies"
+    ],
+    "favorite_categories": [
+      "Snacks"
+    ],
+    "primary_intent": "snacking",
+    "recent_intents": [
+      "snacking",
+      "movie night",
+      "sweet cravings"
+    ],
+    "avg_order_value": 210,
+    "signup_date": "2026-01-20",
+    "loyalty_tier": "bronze",
+    "total_orders": 10,
+    "lat": 26.82276,
+    "lon": 80.932878
+  },
+  {
+    "user_id": "u025",
+    "name": "Ayush Srivastava",
+    "age": 22,
+    "city": "Lucknow",
+    "persona": "student",
+    "preferences": [
+      "energy drinks"
+    ],
+    "favorite_categories": [
+      "Beverages"
+    ],
+    "primary_intent": "energy boost",
+    "recent_intents": [
+      "energy boost",
+      "late night study",
+      "exam prep"
+    ],
+    "avg_order_value": 240,
+    "signup_date": "2025-11-08",
+    "loyalty_tier": "silver",
+    "total_orders": 16,
+    "lat": 26.854841,
+    "lon": 80.93809
+  },
+  {
+    "user_id": "u026",
+    "name": "Tanvi Gupta",
+    "age": 23,
+    "city": "Noida",
+    "persona": "working_professional",
+    "preferences": [
+      "bakery products"
+    ],
+    "favorite_categories": [
+      "Bakery"
+    ],
+    "primary_intent": "bakery treats",
+    "recent_intents": [
+      "bakery treats",
+      "tea time snacks",
+      "sweet cravings"
+    ],
+    "avg_order_value": 260,
+    "signup_date": "2025-08-14",
+    "loyalty_tier": "silver",
+    "total_orders": 20,
+    "lat": 28.527711,
+    "lon": 77.37357
+  },
+  {
+    "user_id": "u027",
+    "name": "Deepak Mishra",
+    "age": 25,
+    "city": "Varanasi",
+    "persona": "family_shopper",
+    "preferences": [
+      "family essentials"
+    ],
+    "favorite_categories": [
+      "Groceries",
+      "Personal Care"
+    ],
+    "primary_intent": "family essentials",
+    "recent_intents": [
+      "family essentials",
+      "monthly grocery",
+      "daily essentials"
+    ],
+    "avg_order_value": 850,
+    "signup_date": "2024-09-10",
+    "loyalty_tier": "gold",
+    "total_orders": 68,
+    "lat": 25.303619,
+    "lon": 83.000099
+  },
+  {
+    "user_id": "u028",
+    "name": "Nisha Singh",
+    "age": 22,
+    "city": "Lucknow",
+    "persona": "health_conscious",
+    "preferences": [
+      "health products"
+    ],
+    "favorite_categories": [
+      "Health"
+    ],
+    "primary_intent": "health and wellness",
+    "recent_intents": [
+      "health and wellness",
+      "immunity boost",
+      "sick day"
+    ],
+    "avg_order_value": 350,
+    "signup_date": "2025-05-29",
+    "loyalty_tier": "silver",
+    "total_orders": 30,
+    "lat": 26.855582,
+    "lon": 80.952748
+  },
+  {
+    "user_id": "u029",
+    "name": "Akash Verma",
+    "age": 21,
+    "city": "Kanpur",
+    "persona": "student",
+    "preferences": [
+      "movie nights"
+    ],
+    "favorite_categories": [
+      "Snacks",
+      "Beverages"
+    ],
+    "primary_intent": "movie night",
+    "recent_intents": [
+      "movie night",
+      "party snacks",
+      "weekend binge"
+    ],
+    "avg_order_value": 250,
+    "signup_date": "2026-02-01",
+    "loyalty_tier": "bronze",
+    "total_orders": 11,
+    "lat": 26.430168,
+    "lon": 80.345648
+  },
+  {
+    "user_id": "u030",
+    "name": "Megha Tiwari",
+    "age": 24,
+    "city": "Lucknow",
+    "persona": "health_conscious",
+    "preferences": [
+      "healthy breakfast"
+    ],
+    "favorite_categories": [
+      "Dairy",
+      "Fruits"
+    ],
+    "primary_intent": "healthy breakfast",
+    "recent_intents": [
+      "healthy breakfast",
+      "healthy lifestyle",
+      "fitness nutrition"
+    ],
+    "avg_order_value": 390,
+    "signup_date": "2025-04-08",
+    "loyalty_tier": "gold",
+    "total_orders": 41,
+    "lat": 26.826504,
+    "lon": 80.938967
+  }
+]

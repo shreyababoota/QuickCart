@@ -1,0 +1,15 @@
+venv/
+.env
+__pycache__/
+*.pyc
+
+node_modules/
+dist/
+build/
+
+.vscode/
+
+*.log
+products.csv
+products_full.csv
+json_to_csv.py

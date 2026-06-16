@@ -1,0 +1,2286 @@
+[
+  {
+    "product_id": "p001",
+    "name": "Amul Full Cream Milk",
+    "category": "Dairy",
+    "subcategory": "Milk",
+    "brand": "Amul",
+    "price": 32,
+    "stock": 50,
+    "tags": [
+      "dairy",
+      "milk",
+      "breakfast",
+      "healthy"
+    ],
+    "occasion": [
+      "breakfast",
+      "healthy lifestyle",
+      "fitness nutrition"
+    ],
+    "time_affinity": [
+      "morning"
+    ],
+    "urgency_score": 3,
+    "frequently_bought_together": [
+      "p003",
+      "p021",
+      "p025"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 11
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 13
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 7
+      }
+    ],
+    "expiry_date": "2026-06-17"
+  },
+  {
+    "product_id": "p002",
+    "name": "Britannia Paneer",
+    "category": "Dairy",
+    "subcategory": "Paneer",
+    "brand": "Britannia",
+    "price": 85,
+    "stock": 30,
+    "tags": [
+      "dairy",
+      "paneer",
+      "protein",
+      "cooking"
+    ],
+    "occasion": [
+      "dinner",
+      "healthy lifestyle",
+      "monthly grocery"
+    ],
+    "time_affinity": [
+      "evening",
+      "night"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p003",
+      "p038",
+      "p040"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 5
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 6
+      }
+    ],
+    "expiry_date": "2026-06-16"
+  },
+  {
+    "product_id": "p003",
+    "name": "Mother Dairy Curd",
+    "category": "Dairy",
+    "subcategory": "Curd",
+    "brand": "Mother Dairy",
+    "price": 60,
+    "stock": 40,
+    "tags": [
+      "dairy",
+      "curd",
+      "probiotic",
+      "breakfast",
+      "healthy"
+    ],
+    "occasion": [
+      "breakfast",
+      "healthy lifestyle",
+      "healthy breakfast"
+    ],
+    "time_affinity": [
+      "morning",
+      "afternoon"
+    ],
+    "urgency_score": 3,
+    "frequently_bought_together": [
+      "p001",
+      "p021",
+      "p025"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 7
+      }
+    ],
+    "expiry_date": "2026-06-20"
+  },
+  {
+    "product_id": "p004",
+    "name": "Amul Butter",
+    "category": "Dairy",
+    "subcategory": "Butter",
+    "brand": "Amul",
+    "price": 55,
+    "stock": 60,
+    "tags": [
+      "dairy",
+      "butter",
+      "breakfast",
+      "cooking"
+    ],
+    "occasion": [
+      "breakfast",
+      "bakery treats"
+    ],
+    "time_affinity": [
+      "morning"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p005",
+      "p006",
+      "p001"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 13
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 15
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 12
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 10
+      }
+    ],
+    "expiry_date": "2026-06-19"
+  },
+  {
+    "product_id": "p005",
+    "name": "Britannia Whole Wheat Bread",
+    "category": "Bakery",
+    "subcategory": "Bread",
+    "brand": "Britannia",
+    "price": 45,
+    "stock": 35,
+    "tags": [
+      "bread",
+      "breakfast",
+      "healthy",
+      "whole wheat"
+    ],
+    "occasion": [
+      "breakfast",
+      "healthy lifestyle",
+      "quick meals"
+    ],
+    "time_affinity": [
+      "morning"
+    ],
+    "urgency_score": 3,
+    "frequently_bought_together": [
+      "p004",
+      "p001",
+      "p021"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 6
+      }
+    ],
+    "expiry_date": "2026-06-16"
+  },
+  {
+    "product_id": "p006",
+    "name": "Modern White Bread",
+    "category": "Bakery",
+    "subcategory": "Bread",
+    "brand": "Modern",
+    "price": 35,
+    "stock": 28,
+    "tags": [
+      "bread",
+      "breakfast",
+      "white bread"
+    ],
+    "occasion": [
+      "breakfast",
+      "quick meals",
+      "bakery treats"
+    ],
+    "time_affinity": [
+      "morning"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p004",
+      "p001",
+      "p015"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 5
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 5
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 5
+      }
+    ],
+    "expiry_date": "2026-06-16"
+  },
+  {
+    "product_id": "p007",
+    "name": "English Oven Multigrain Bread",
+    "category": "Bakery",
+    "subcategory": "Bread",
+    "brand": "English Oven",
+    "price": 55,
+    "stock": 20,
+    "tags": [
+      "bread",
+      "multigrain",
+      "healthy",
+      "breakfast"
+    ],
+    "occasion": [
+      "breakfast",
+      "healthy lifestyle"
+    ],
+    "time_affinity": [
+      "morning"
+    ],
+    "urgency_score": 4,
+    "frequently_bought_together": [
+      "p004",
+      "p001",
+      "p025"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 4
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 5
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 3
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 4
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 4
+      }
+    ],
+    "expiry_date": "2026-06-20"
+  },
+  {
+    "product_id": "p008",
+    "name": "Nescafe Classic Coffee",
+    "category": "Beverages",
+    "subcategory": "Coffee",
+    "brand": "Nescafe",
+    "price": 35,
+    "stock": 45,
+    "tags": [
+      "coffee",
+      "beverage",
+      "morning",
+      "energy",
+      "hot drink"
+    ],
+    "occasion": [
+      "morning boost",
+      "late night study",
+      "tea time snacks"
+    ],
+    "time_affinity": [
+      "morning",
+      "evening"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p009",
+      "p036",
+      "p015"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 11
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 8
+      }
+    ],
+    "expiry_date": "2027-03-24"
+  },
+  {
+    "product_id": "p009",
+    "name": "Tata Tea Premium",
+    "category": "Beverages",
+    "subcategory": "Tea",
+    "brand": "Tata",
+    "price": 80,
+    "stock": 55,
+    "tags": [
+      "tea",
+      "beverage",
+      "morning",
+      "hot drink"
+    ],
+    "occasion": [
+      "morning boost",
+      "tea time snacks",
+      "bakery treats"
+    ],
+    "time_affinity": [
+      "morning",
+      "evening"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p008",
+      "p036",
+      "p006"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 12
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 14
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 11
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 9
+      }
+    ],
+    "expiry_date": "2027-03-09"
+  },
+  {
+    "product_id": "p010",
+    "name": "Real Orange Juice",
+    "category": "Beverages",
+    "subcategory": "Juice",
+    "brand": "Real",
+    "price": 20,
+    "stock": 25,
+    "tags": [
+      "juice",
+      "beverage",
+      "fruit",
+      "healthy",
+      "vitamin c"
+    ],
+    "occasion": [
+      "breakfast",
+      "healthy lifestyle",
+      "party beverages"
+    ],
+    "time_affinity": [
+      "morning",
+      "afternoon"
+    ],
+    "urgency_score": 3,
+    "frequently_bought_together": [
+      "p016",
+      "p017",
+      "p013"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 5
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 4
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 5
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 5
+      }
+    ],
+    "expiry_date": "2028-02-15"
+  },
+  {
+    "product_id": "p011",
+    "name": "Bisleri Water",
+    "category": "Beverages",
+    "subcategory": "Water",
+    "brand": "Bisleri",
+    "price": 25,
+    "stock": 100,
+    "tags": [
+      "water",
+      "beverage",
+      "hydration",
+      "essentials"
+    ],
+    "occasion": [
+      "daily essentials",
+      "party beverages",
+      "movie night"
+    ],
+    "time_affinity": [
+      "morning",
+      "afternoon",
+      "evening",
+      "night"
+    ],
+    "urgency_score": 1,
+    "frequently_bought_together": [
+      "p012",
+      "p013",
+      "p014"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 22
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 26
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 18
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 20
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 14
+      }
+    ],
+    "expiry_date": "2027-01-11"
+  },
+  {
+    "product_id": "p012",
+    "name": "Lay's Classic Salted",
+    "category": "Snacks",
+    "subcategory": "Chips",
+    "brand": "Lay's",
+    "price": 55,
+    "stock": 80,
+    "tags": [
+      "snack",
+      "chips",
+      "crunchy",
+      "party",
+      "movie"
+    ],
+    "occasion": [
+      "movie night",
+      "party snacks",
+      "snacking",
+      "tea time snacks"
+    ],
+    "time_affinity": [
+      "afternoon",
+      "evening",
+      "night"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p013",
+      "p014",
+      "p011"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 17
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 20
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 14
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 16
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 13
+      }
+    ],
+    "expiry_date": "2027-01-09"
+  },
+  {
+    "product_id": "p013",
+    "name": "Haldiram's Aloo Bhujia",
+    "category": "Snacks",
+    "subcategory": "Namkeen",
+    "brand": "Haldiram's",
+    "price": 50,
+    "stock": 60,
+    "tags": [
+      "snack",
+      "namkeen",
+      "bhujia",
+      "party",
+      "indian snack"
+    ],
+    "occasion": [
+      "movie night",
+      "party snacks",
+      "tea time snacks",
+      "snacking"
+    ],
+    "time_affinity": [
+      "afternoon",
+      "evening"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p012",
+      "p014",
+      "p011"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 13
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 15
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 12
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 10
+      }
+    ],
+    "expiry_date": "2027-03-15"
+  },
+  {
+    "product_id": "p014",
+    "name": "Bingo Mad Angles",
+    "category": "Snacks",
+    "subcategory": "Chips",
+    "brand": "Bingo",
+    "price": 40,
+    "stock": 75,
+    "tags": [
+      "snack",
+      "chips",
+      "masala",
+      "party",
+      "movie"
+    ],
+    "occasion": [
+      "movie night",
+      "snacking",
+      "party snacks"
+    ],
+    "time_affinity": [
+      "afternoon",
+      "evening",
+      "night"
+    ],
+    "urgency_score": 1,
+    "frequently_bought_together": [
+      "p012",
+      "p013",
+      "p011"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 16
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 19
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 13
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 15
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 12
+      }
+    ],
+    "expiry_date": "2027-07-21"
+  },
+  {
+    "product_id": "p015",
+    "name": "Britannia Good Day Cookies",
+    "category": "Snacks",
+    "subcategory": "Biscuits",
+    "brand": "Britannia",
+    "price": 30,
+    "stock": 50,
+    "tags": [
+      "biscuit",
+      "cookie",
+      "snack",
+      "tea time",
+      "study"
+    ],
+    "occasion": [
+      "tea time snacks",
+      "late night study",
+      "snacking"
+    ],
+    "time_affinity": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "urgency_score": 1,
+    "frequently_bought_together": [
+      "p008",
+      "p009",
+      "p018"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 11
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 13
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 7
+      }
+    ],
+    "expiry_date": "2027-08-05"
+  },
+  {
+    "product_id": "p016",
+    "name": "Banana (Dozen)",
+    "category": "Fruits",
+    "subcategory": "Tropical Fruits",
+    "brand": "Fresh",
+    "price": 40,
+    "stock": 30,
+    "tags": [
+      "fruit",
+      "banana",
+      "healthy",
+      "energy",
+      "fitness"
+    ],
+    "occasion": [
+      "healthy lifestyle",
+      "fitness nutrition",
+      "energy boost"
+    ],
+    "time_affinity": [
+      "morning",
+      "afternoon"
+    ],
+    "urgency_score": 3,
+    "frequently_bought_together": [
+      "p017",
+      "p021",
+      "p025"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 5
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 6
+      }
+    ],
+    "expiry_date": "2026-06-16"
+  },
+  {
+    "product_id": "p017",
+    "name": "Apple (Shimla)",
+    "category": "Fruits",
+    "subcategory": "Apples",
+    "brand": "Fresh",
+    "price": 40,
+    "stock": 20,
+    "tags": [
+      "fruit",
+      "apple",
+      "healthy",
+      "fresh"
+    ],
+    "occasion": [
+      "healthy lifestyle",
+      "party beverages",
+      "snacking"
+    ],
+    "time_affinity": [
+      "morning",
+      "afternoon"
+    ],
+    "urgency_score": 3,
+    "frequently_bought_together": [
+      "p016",
+      "p010",
+      "p023"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 4
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 5
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 3
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 4
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 4
+      }
+    ],
+    "expiry_date": "2026-06-19"
+  },
+  {
+    "product_id": "p018",
+    "name": "Mango Alphonso",
+    "category": "Fruits",
+    "subcategory": "Mangoes",
+    "brand": "Fresh",
+    "price": 125,
+    "stock": 15,
+    "tags": [
+      "fruit",
+      "mango",
+      "seasonal",
+      "energy",
+      "sweet"
+    ],
+    "occasion": [
+      "energy boost",
+      "late night study",
+      "healthy lifestyle"
+    ],
+    "time_affinity": [
+      "afternoon",
+      "evening"
+    ],
+    "urgency_score": 5,
+    "frequently_bought_together": [
+      "p019",
+      "p016",
+      "p015"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 3
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 3
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 2
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 3
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 4
+      }
+    ],
+    "expiry_date": "2026-06-22"
+  },
+  {
+    "product_id": "p019",
+    "name": "Dry Fruits Mix (Premium)",
+    "category": "Snacks",
+    "subcategory": "Dry Fruits",
+    "brand": "Nature's Best",
+    "price": 110,
+    "stock": 40,
+    "tags": [
+      "dry fruits",
+      "healthy snack",
+      "energy",
+      "premium",
+      "fitness"
+    ],
+    "occasion": [
+      "energy boost",
+      "fitness nutrition",
+      "healthy breakfast"
+    ],
+    "time_affinity": [
+      "morning",
+      "afternoon"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p018",
+      "p021",
+      "p022"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 7
+      }
+    ],
+    "expiry_date": "2027-07-23"
+  },
+  {
+    "product_id": "p020",
+    "name": "Maggi 2-Minute Noodles",
+    "category": "Instant Food",
+    "subcategory": "Noodles",
+    "brand": "Maggi",
+    "price": 14,
+    "stock": 65,
+    "tags": [
+      "instant",
+      "noodles",
+      "quick meal",
+      "student",
+      "midnight"
+    ],
+    "occasion": [
+      "late night study",
+      "quick meals",
+      "midnight snack"
+    ],
+    "time_affinity": [
+      "night",
+      "evening"
+    ],
+    "urgency_score": 1,
+    "frequently_bought_together": [
+      "p031",
+      "p032",
+      "p034"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 14
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 16
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 11
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 13
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 11
+      }
+    ],
+    "expiry_date": "2028-03-13"
+  },
+  {
+    "product_id": "p021",
+    "name": "Eggs (Farm Fresh)",
+    "category": "Dairy & Eggs",
+    "subcategory": "Eggs",
+    "brand": "Farm Fresh",
+    "price": 45,
+    "stock": 40,
+    "tags": [
+      "eggs",
+      "protein",
+      "breakfast",
+      "healthy",
+      "fitness"
+    ],
+    "occasion": [
+      "healthy breakfast",
+      "fitness nutrition",
+      "healthy lifestyle"
+    ],
+    "time_affinity": [
+      "morning"
+    ],
+    "urgency_score": 3,
+    "frequently_bought_together": [
+      "p001",
+      "p004",
+      "p005"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 7
+      }
+    ],
+    "expiry_date": "2026-06-20"
+  },
+  {
+    "product_id": "p022",
+    "name": "Whey Protein (Chocolate)",
+    "category": "Health",
+    "subcategory": "Supplements",
+    "brand": "MuscleBlaze",
+    "price": 180,
+    "stock": 25,
+    "tags": [
+      "protein",
+      "fitness",
+      "supplement",
+      "gym",
+      "health"
+    ],
+    "occasion": [
+      "fitness nutrition",
+      "energy boost"
+    ],
+    "time_affinity": [
+      "morning",
+      "evening"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p021",
+      "p019",
+      "p025"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 5
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 4
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 5
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 5
+      }
+    ],
+    "expiry_date": "2027-06-19"
+  },
+  {
+    "product_id": "p023",
+    "name": "Tulsi Green Tea (25 bags)",
+    "category": "Beverages",
+    "subcategory": "Herbal Tea",
+    "brand": "Organic India",
+    "price": 120,
+    "stock": 35,
+    "tags": [
+      "green tea",
+      "healthy",
+      "detox",
+      "herbal",
+      "antioxidant"
+    ],
+    "occasion": [
+      "healthy lifestyle",
+      "sick day",
+      "energy boost"
+    ],
+    "time_affinity": [
+      "morning",
+      "evening"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p046",
+      "p047",
+      "p025"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 6
+      }
+    ],
+    "expiry_date": "2027-05-22"
+  },
+  {
+    "product_id": "p024",
+    "name": "Whole Wheat Atta (5kg)",
+    "category": "Staples",
+    "subcategory": "Flour",
+    "brand": "Aashirvaad",
+    "price": 245,
+    "stock": 30,
+    "tags": [
+      "atta",
+      "flour",
+      "staple",
+      "cooking",
+      "monthly grocery"
+    ],
+    "occasion": [
+      "monthly grocery",
+      "family essentials",
+      "healthy lifestyle"
+    ],
+    "time_affinity": [
+      "morning",
+      "afternoon"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p037",
+      "p038",
+      "p039"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 5
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 6
+      }
+    ],
+    "expiry_date": "2028-02-15"
+  },
+  {
+    "product_id": "p025",
+    "name": "Oats (Rolled, 500g)",
+    "category": "Breakfast",
+    "subcategory": "Oats",
+    "brand": "Quaker",
+    "price": 70,
+    "stock": 45,
+    "tags": [
+      "oats",
+      "healthy",
+      "breakfast",
+      "fiber",
+      "weight loss"
+    ],
+    "occasion": [
+      "healthy breakfast",
+      "fitness nutrition",
+      "healthy lifestyle"
+    ],
+    "time_affinity": [
+      "morning"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p001",
+      "p021",
+      "p019"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 11
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 8
+      }
+    ],
+    "expiry_date": "2027-11-23"
+  },
+  {
+    "product_id": "p031",
+    "name": "Top Ramen Noodles",
+    "category": "Instant Food",
+    "subcategory": "Noodles",
+    "brand": "Top Ramen",
+    "price": 15,
+    "stock": 90,
+    "tags": [
+      "instant",
+      "noodles",
+      "quick",
+      "midnight",
+      "student"
+    ],
+    "occasion": [
+      "late night study",
+      "quick meals",
+      "midnight snack"
+    ],
+    "time_affinity": [
+      "night"
+    ],
+    "urgency_score": 1,
+    "frequently_bought_together": [
+      "p020",
+      "p032",
+      "p035"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 19
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 23
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 16
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 18
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 14
+      }
+    ],
+    "expiry_date": "2027-09-20"
+  },
+  {
+    "product_id": "p032",
+    "name": "Knorr Soup (Tomato)",
+    "category": "Instant Food",
+    "subcategory": "Soup",
+    "brand": "Knorr",
+    "price": 50,
+    "stock": 40,
+    "tags": [
+      "soup",
+      "instant",
+      "quick",
+      "warm",
+      "winter",
+      "sick"
+    ],
+    "occasion": [
+      "sick day",
+      "quick meals",
+      "late night study"
+    ],
+    "time_affinity": [
+      "evening",
+      "night"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p031",
+      "p020",
+      "p047"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 7
+      }
+    ],
+    "expiry_date": "2027-05-18"
+  },
+  {
+    "product_id": "p034",
+    "name": "Sunfeast Dark Fantasy Biscuits",
+    "category": "Snacks",
+    "subcategory": "Biscuits",
+    "brand": "Sunfeast",
+    "price": 140,
+    "stock": 45,
+    "tags": [
+      "biscuit",
+      "chocolate",
+      "premium snack",
+      "gifting"
+    ],
+    "occasion": [
+      "tea time snacks",
+      "quick meals",
+      "snacking"
+    ],
+    "time_affinity": [
+      "afternoon",
+      "evening"
+    ],
+    "urgency_score": 1,
+    "frequently_bought_together": [
+      "p015",
+      "p008",
+      "p009"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 11
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 8
+      }
+    ],
+    "expiry_date": "2027-07-18"
+  },
+  {
+    "product_id": "p035",
+    "name": "Yippee Magic Masala Noodles",
+    "category": "Instant Food",
+    "subcategory": "Noodles",
+    "brand": "Sunfeast",
+    "price": 95,
+    "stock": 55,
+    "tags": [
+      "instant",
+      "noodles",
+      "masala",
+      "quick",
+      "student"
+    ],
+    "occasion": [
+      "quick meals",
+      "late night study"
+    ],
+    "time_affinity": [
+      "evening",
+      "night"
+    ],
+    "urgency_score": 1,
+    "frequently_bought_together": [
+      "p020",
+      "p031",
+      "p032"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 12
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 14
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 11
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 9
+      }
+    ],
+    "expiry_date": "2027-11-19"
+  },
+  {
+    "product_id": "p036",
+    "name": "Parle-G Biscuits (Family Pack)",
+    "category": "Snacks",
+    "subcategory": "Biscuits",
+    "brand": "Parle",
+    "price": 165,
+    "stock": 70,
+    "tags": [
+      "biscuit",
+      "classic",
+      "tea time",
+      "family pack",
+      "value"
+    ],
+    "occasion": [
+      "tea time snacks",
+      "family essentials",
+      "monthly grocery"
+    ],
+    "time_affinity": [
+      "morning",
+      "afternoon",
+      "evening"
+    ],
+    "urgency_score": 1,
+    "frequently_bought_together": [
+      "p008",
+      "p009",
+      "p015"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 15
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 18
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 12
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 14
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 11
+      }
+    ],
+    "expiry_date": "2027-03-24"
+  },
+  {
+    "product_id": "p037",
+    "name": "Tata Salt (1kg)",
+    "category": "Staples",
+    "subcategory": "Salt",
+    "brand": "Tata",
+    "price": 285,
+    "stock": 60,
+    "tags": [
+      "salt",
+      "staple",
+      "essential",
+      "monthly grocery",
+      "cooking"
+    ],
+    "occasion": [
+      "monthly grocery",
+      "family essentials"
+    ],
+    "time_affinity": [
+      "morning",
+      "afternoon"
+    ],
+    "urgency_score": 1,
+    "frequently_bought_together": [
+      "p038",
+      "p039",
+      "p040"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 13
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 15
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 12
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 10
+      }
+    ],
+    "expiry_date": "2027-03-14"
+  },
+  {
+    "product_id": "p038",
+    "name": "Fortune Soyabean Oil (1L)",
+    "category": "Staples",
+    "subcategory": "Cooking Oil",
+    "brand": "Fortune",
+    "price": 145,
+    "stock": 35,
+    "tags": [
+      "oil",
+      "cooking oil",
+      "staple",
+      "monthly grocery"
+    ],
+    "occasion": [
+      "monthly grocery",
+      "family essentials"
+    ],
+    "time_affinity": [
+      "morning",
+      "afternoon"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p037",
+      "p039",
+      "p024"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 6
+      }
+    ],
+    "expiry_date": "2028-01-03"
+  },
+  {
+    "product_id": "p039",
+    "name": "India Gate Basmati Rice (1kg)",
+    "category": "Staples",
+    "subcategory": "Rice",
+    "brand": "India Gate",
+    "price": 130,
+    "stock": 50,
+    "tags": [
+      "rice",
+      "basmati",
+      "staple",
+      "cooking",
+      "monthly grocery"
+    ],
+    "occasion": [
+      "monthly grocery",
+      "family essentials"
+    ],
+    "time_affinity": [
+      "afternoon",
+      "evening"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p037",
+      "p038",
+      "p040"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 11
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 13
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 7
+      }
+    ],
+    "expiry_date": "2027-03-19"
+  },
+  {
+    "product_id": "p040",
+    "name": "Tata Dal Masoor (500g)",
+    "category": "Staples",
+    "subcategory": "Pulses",
+    "brand": "Tata",
+    "price": 55,
+    "stock": 45,
+    "tags": [
+      "dal",
+      "lentils",
+      "staple",
+      "protein",
+      "cooking"
+    ],
+    "occasion": [
+      "monthly grocery",
+      "family essentials",
+      "healthy lifestyle"
+    ],
+    "time_affinity": [
+      "afternoon",
+      "evening"
+    ],
+    "urgency_score": 1,
+    "frequently_bought_together": [
+      "p039",
+      "p037",
+      "p038"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 11
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 8
+      }
+    ],
+    "expiry_date": "2027-12-12"
+  },
+  {
+    "product_id": "p041",
+    "name": "Dove Body Wash (250ml)",
+    "category": "Personal Care",
+    "subcategory": "Body Wash",
+    "brand": "Dove",
+    "price": 110,
+    "stock": 40,
+    "tags": [
+      "personal care",
+      "body wash",
+      "hygiene",
+      "self care"
+    ],
+    "occasion": [
+      "personal care essentials",
+      "family essentials"
+    ],
+    "time_affinity": [
+      "morning"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p042",
+      "p043",
+      "p044"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 7
+      }
+    ],
+    "expiry_date": "2028-05-30"
+  },
+  {
+    "product_id": "p042",
+    "name": "Himalaya Face Wash (100ml)",
+    "category": "Personal Care",
+    "subcategory": "Face Wash",
+    "brand": "Himalaya",
+    "price": 45,
+    "stock": 50,
+    "tags": [
+      "face wash",
+      "personal care",
+      "skincare",
+      "hygiene"
+    ],
+    "occasion": [
+      "personal care essentials"
+    ],
+    "time_affinity": [
+      "morning"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p041",
+      "p043",
+      "p044"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 11
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 13
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 7
+      }
+    ],
+    "expiry_date": "2029-02-20"
+  },
+  {
+    "product_id": "p043",
+    "name": "Head & Shoulders Shampoo (340ml)",
+    "category": "Personal Care",
+    "subcategory": "Shampoo",
+    "brand": "Head & Shoulders",
+    "price": 135,
+    "stock": 35,
+    "tags": [
+      "shampoo",
+      "hair care",
+      "personal care",
+      "anti dandruff"
+    ],
+    "occasion": [
+      "personal care essentials",
+      "family essentials"
+    ],
+    "time_affinity": [
+      "morning"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p041",
+      "p042",
+      "p044"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 6
+      }
+    ],
+    "expiry_date": "2028-03-09"
+  },
+  {
+    "product_id": "p044",
+    "name": "Colgate Toothpaste (200g)",
+    "category": "Personal Care",
+    "subcategory": "Oral Care",
+    "brand": "Colgate",
+    "price": 210,
+    "stock": 60,
+    "tags": [
+      "toothpaste",
+      "oral care",
+      "hygiene",
+      "daily essential"
+    ],
+    "occasion": [
+      "personal care essentials",
+      "family essentials",
+      "monthly grocery"
+    ],
+    "time_affinity": [
+      "morning"
+    ],
+    "urgency_score": 1,
+    "frequently_bought_together": [
+      "p041",
+      "p042",
+      "p043"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 13
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 15
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 12
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 10
+      }
+    ],
+    "expiry_date": "2027-07-27"
+  },
+  {
+    "product_id": "p046",
+    "name": "Vicks VapoRub (25ml)",
+    "category": "Health",
+    "subcategory": "Cold Relief",
+    "brand": "Vicks",
+    "price": 30,
+    "stock": 35,
+    "tags": [
+      "medicine",
+      "cold",
+      "cough",
+      "sick",
+      "health",
+      "relief"
+    ],
+    "occasion": [
+      "sick day"
+    ],
+    "time_affinity": [
+      "evening",
+      "night"
+    ],
+    "urgency_score": 5,
+    "frequently_bought_together": [
+      "p047",
+      "p050",
+      "p023"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 6
+      }
+    ],
+    "expiry_date": "2028-09-25"
+  },
+  {
+    "product_id": "p047",
+    "name": "Hajmola Tablets (Pack of 4)",
+    "category": "Health",
+    "subcategory": "Digestive",
+    "brand": "Dabur",
+    "price": 20,
+    "stock": 80,
+    "tags": [
+      "digestive",
+      "acidity",
+      "health",
+      "after meal"
+    ],
+    "occasion": [
+      "sick day",
+      "after meal"
+    ],
+    "time_affinity": [
+      "afternoon",
+      "evening"
+    ],
+    "urgency_score": 3,
+    "frequently_bought_together": [
+      "p046",
+      "p050",
+      "p032"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 17
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 20
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 14
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 16
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 13
+      }
+    ],
+    "expiry_date": "2028-12-13"
+  },
+  {
+    "product_id": "p050",
+    "name": "Dolo 650 Paracetamol (Strip of 15)",
+    "category": "Health",
+    "subcategory": "Fever Relief",
+    "brand": "Micro Labs",
+    "price": 250,
+    "stock": 30,
+    "tags": [
+      "medicine",
+      "fever",
+      "paracetamol",
+      "sick",
+      "health",
+      "pain relief"
+    ],
+    "occasion": [
+      "sick day"
+    ],
+    "time_affinity": [
+      "morning",
+      "evening",
+      "night"
+    ],
+    "urgency_score": 5,
+    "frequently_bought_together": [
+      "p046",
+      "p047",
+      "p023"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 5
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 6
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 6
+      }
+    ],
+    "expiry_date": "2027-10-18"
+  },
+  {
+    "product_id": "p056",
+    "name": "Surf Excel Detergent (500g)",
+    "category": "Household",
+    "subcategory": "Detergent",
+    "brand": "Surf Excel",
+    "price": 80,
+    "stock": 45,
+    "tags": [
+      "detergent",
+      "laundry",
+      "household",
+      "cleaning"
+    ],
+    "occasion": [
+      "family essentials",
+      "monthly grocery"
+    ],
+    "time_affinity": [
+      "morning",
+      "afternoon"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p057",
+      "p037",
+      "p044"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 11
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 9
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 8
+      }
+    ],
+    "expiry_date": "2028-07-04"
+  },
+  {
+    "product_id": "p057",
+    "name": "Harpic Toilet Cleaner (500ml)",
+    "category": "Household",
+    "subcategory": "Toilet Cleaner",
+    "brand": "Harpic",
+    "price": 120,
+    "stock": 40,
+    "tags": [
+      "toilet cleaner",
+      "household",
+      "hygiene",
+      "cleaning"
+    ],
+    "occasion": [
+      "family essentials",
+      "monthly grocery"
+    ],
+    "time_affinity": [
+      "morning"
+    ],
+    "urgency_score": 2,
+    "frequently_bought_together": [
+      "p056",
+      "p044",
+      "p041"
+    ],
+    "warehouse_inventory": [
+      {
+        "warehouse_id": "W001",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W002",
+        "quantity": 10
+      },
+      {
+        "warehouse_id": "W003",
+        "quantity": 7
+      },
+      {
+        "warehouse_id": "W004",
+        "quantity": 8
+      },
+      {
+        "warehouse_id": "W005",
+        "quantity": 7
+      }
+    ],
+    "expiry_date": "2027-09-01"
+  }
+]

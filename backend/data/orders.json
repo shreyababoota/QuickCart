@@ -1,0 +1,8197 @@
+[
+  {
+    "order_id": "ord001",
+    "user_id": "u001",
+    "products": [
+      {
+        "product_id": "p001",
+        "quantity": 1,
+        "price": 32
+      },
+      {
+        "product_id": "p025",
+        "quantity": 1,
+        "price": 70
+      },
+      {
+        "product_id": "p021",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "product_id": "p003",
+        "quantity": 3,
+        "price": 60
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 327,
+    "order_time": "2026-05-01T08:43:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord002",
+    "user_id": "u002",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 1,
+        "price": 30
+      },
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 45,
+    "order_time": "2026-05-01T12:13:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord003",
+    "user_id": "u003",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      },
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 3,
+        "price": 50
+      },
+      {
+        "product_id": "p014",
+        "quantity": 2,
+        "price": 40
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 330,
+    "order_time": "2026-05-01T16:48:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord004",
+    "user_id": "u004",
+    "products": [
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      },
+      {
+        "product_id": "p036",
+        "quantity": 1,
+        "price": 165
+      },
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 290,
+    "order_time": "2026-05-01T20:05:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord005",
+    "user_id": "u005",
+    "products": [
+      {
+        "product_id": "p039",
+        "quantity": 3,
+        "price": 130
+      },
+      {
+        "product_id": "p036",
+        "quantity": 2,
+        "price": 165
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 720,
+    "order_time": "2026-05-02T00:46:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord006",
+    "user_id": "u006",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      },
+      {
+        "product_id": "p005",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p022",
+        "quantity": 3,
+        "price": 180
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 975,
+    "order_time": "2026-05-02T05:45:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord007",
+    "user_id": "u007",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "product_id": "p025",
+        "quantity": 1,
+        "price": 70
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 115,
+    "order_time": "2026-05-02T08:24:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord008",
+    "user_id": "u008",
+    "products": [
+      {
+        "product_id": "p034",
+        "quantity": 2,
+        "price": 140
+      },
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      },
+      {
+        "product_id": "p032",
+        "quantity": 3,
+        "price": 50
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 445,
+    "order_time": "2026-05-02T14:44:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord009",
+    "user_id": "u009",
+    "products": [
+      {
+        "product_id": "p046",
+        "quantity": 1,
+        "price": 30
+      },
+      {
+        "product_id": "p050",
+        "quantity": 2,
+        "price": 250
+      },
+      {
+        "product_id": "p023",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p047",
+        "quantity": 2,
+        "price": 20
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 810,
+    "order_time": "2026-05-02T17:43:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord010",
+    "user_id": "u010",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      },
+      {
+        "product_id": "p019",
+        "quantity": 2,
+        "price": 110
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 470,
+    "order_time": "2026-05-02T22:04:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord011",
+    "user_id": "u011",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      },
+      {
+        "product_id": "p041",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p042",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "product_id": "p044",
+        "quantity": 2,
+        "price": 210
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 1090,
+    "order_time": "2026-05-03T01:15:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord012",
+    "user_id": "u012",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 2,
+        "price": 135
+      },
+      {
+        "product_id": "p056",
+        "quantity": 1,
+        "price": 80
+      },
+      {
+        "product_id": "p057",
+        "quantity": 1,
+        "price": 120
+      },
+      {
+        "product_id": "p041",
+        "quantity": 3,
+        "price": 110
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 800,
+    "order_time": "2026-05-03T07:05:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord013",
+    "user_id": "u013",
+    "products": [
+      {
+        "product_id": "p017",
+        "quantity": 1,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 3,
+        "price": 20
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 100,
+    "order_time": "2026-05-03T11:38:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord014",
+    "user_id": "u014",
+    "products": [
+      {
+        "product_id": "p009",
+        "quantity": 3,
+        "price": 80
+      },
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 310,
+    "order_time": "2026-05-03T12:43:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord015",
+    "user_id": "u015",
+    "products": [
+      {
+        "product_id": "p012",
+        "quantity": 2,
+        "price": 55
+      },
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p011",
+        "quantity": 1,
+        "price": 25
+      },
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 235,
+    "order_time": "2026-05-03T16:46:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord016",
+    "user_id": "u016",
+    "products": [
+      {
+        "product_id": "p003",
+        "quantity": 3,
+        "price": 60
+      },
+      {
+        "product_id": "p001",
+        "quantity": 3,
+        "price": 32
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p025",
+        "quantity": 1,
+        "price": 70
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 481,
+    "order_time": "2026-05-03T21:23:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord017",
+    "user_id": "u017",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p018",
+        "quantity": 1,
+        "price": 125
+      },
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 200,
+    "order_time": "2026-05-04T02:56:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord018",
+    "user_id": "u018",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 3,
+        "price": 20
+      },
+      {
+        "product_id": "p013",
+        "quantity": 1,
+        "price": 50
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 110,
+    "order_time": "2026-05-04T04:46:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord019",
+    "user_id": "u019",
+    "products": [
+      {
+        "product_id": "p036",
+        "quantity": 1,
+        "price": 165
+      },
+      {
+        "product_id": "p008",
+        "quantity": 3,
+        "price": 35
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 270,
+    "order_time": "2026-05-04T11:35:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord020",
+    "user_id": "u020",
+    "products": [
+      {
+        "product_id": "p036",
+        "quantity": 3,
+        "price": 165
+      },
+      {
+        "product_id": "p040",
+        "quantity": 3,
+        "price": 55
+      },
+      {
+        "product_id": "p037",
+        "quantity": 3,
+        "price": 285
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 1515,
+    "order_time": "2026-05-04T13:45:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord021",
+    "user_id": "u021",
+    "products": [
+      {
+        "product_id": "p023",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p025",
+        "quantity": 1,
+        "price": 70
+      },
+      {
+        "product_id": "p005",
+        "quantity": 1,
+        "price": 45
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 355,
+    "order_time": "2026-05-04T17:04:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord022",
+    "user_id": "u022",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "product_id": "p022",
+        "quantity": 1,
+        "price": 180
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 225,
+    "order_time": "2026-05-04T20:45:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord023",
+    "user_id": "u023",
+    "products": [
+      {
+        "product_id": "p032",
+        "quantity": 1,
+        "price": 50
+      },
+      {
+        "product_id": "p031",
+        "quantity": 2,
+        "price": 15
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 80,
+    "order_time": "2026-05-05T00:32:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord024",
+    "user_id": "u024",
+    "products": [
+      {
+        "product_id": "p023",
+        "quantity": 3,
+        "price": 120
+      },
+      {
+        "product_id": "p046",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p050",
+        "quantity": 3,
+        "price": 250
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 1200,
+    "order_time": "2026-05-05T07:15:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord025",
+    "user_id": "u025",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 1,
+        "price": 125
+      },
+      {
+        "product_id": "p019",
+        "quantity": 3,
+        "price": 110
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 455,
+    "order_time": "2026-05-05T11:22:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord026",
+    "user_id": "u026",
+    "products": [
+      {
+        "product_id": "p044",
+        "quantity": 3,
+        "price": 210
+      },
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      },
+      {
+        "product_id": "p041",
+        "quantity": 3,
+        "price": 110
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 1365,
+    "order_time": "2026-05-05T12:03:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord027",
+    "user_id": "u027",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 1,
+        "price": 135
+      },
+      {
+        "product_id": "p037",
+        "quantity": 3,
+        "price": 285
+      },
+      {
+        "product_id": "p056",
+        "quantity": 2,
+        "price": 80
+      },
+      {
+        "product_id": "p057",
+        "quantity": 1,
+        "price": 120
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 1270,
+    "order_time": "2026-05-05T19:11:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord028",
+    "user_id": "u028",
+    "products": [
+      {
+        "product_id": "p017",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p016",
+        "quantity": 1,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 1,
+        "price": 50
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 210,
+    "order_time": "2026-05-05T20:05:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord029",
+    "user_id": "u029",
+    "products": [
+      {
+        "product_id": "p009",
+        "quantity": 2,
+        "price": 80
+      },
+      {
+        "product_id": "p008",
+        "quantity": 1,
+        "price": 35
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 195,
+    "order_time": "2026-05-06T03:57:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord030",
+    "user_id": "u030",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 100,
+    "order_time": "2026-05-06T07:18:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord031",
+    "user_id": "u001",
+    "products": [
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      },
+      {
+        "product_id": "p019",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "product_id": "p001",
+        "quantity": 1,
+        "price": 32
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 417,
+    "order_time": "2026-05-06T08:47:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord032",
+    "user_id": "u002",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 3,
+        "price": 125
+      },
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 420,
+    "order_time": "2026-05-06T13:03:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord033",
+    "user_id": "u003",
+    "products": [
+      {
+        "product_id": "p014",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 140,
+    "order_time": "2026-05-06T17:25:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord034",
+    "user_id": "u004",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      },
+      {
+        "product_id": "p036",
+        "quantity": 3,
+        "price": 165
+      },
+      {
+        "product_id": "p012",
+        "quantity": 3,
+        "price": 55
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 730,
+    "order_time": "2026-05-06T22:59:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord035",
+    "user_id": "u005",
+    "products": [
+      {
+        "product_id": "p039",
+        "quantity": 2,
+        "price": 130
+      },
+      {
+        "product_id": "p038",
+        "quantity": 2,
+        "price": 145
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 550,
+    "order_time": "2026-05-07T01:42:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord036",
+    "user_id": "u006",
+    "products": [
+      {
+        "product_id": "p025",
+        "quantity": 1,
+        "price": 70
+      },
+      {
+        "product_id": "p023",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 445,
+    "order_time": "2026-05-07T04:04:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord037",
+    "user_id": "u007",
+    "products": [
+      {
+        "product_id": "p022",
+        "quantity": 2,
+        "price": 180
+      },
+      {
+        "product_id": "p001",
+        "quantity": 1,
+        "price": 32
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 392,
+    "order_time": "2026-05-07T09:23:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord038",
+    "user_id": "u008",
+    "products": [
+      {
+        "product_id": "p035",
+        "quantity": 3,
+        "price": 95
+      },
+      {
+        "product_id": "p034",
+        "quantity": 2,
+        "price": 140
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 565,
+    "order_time": "2026-05-07T12:42:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord039",
+    "user_id": "u009",
+    "products": [
+      {
+        "product_id": "p046",
+        "quantity": 1,
+        "price": 30
+      },
+      {
+        "product_id": "p023",
+        "quantity": 1,
+        "price": 120
+      },
+      {
+        "product_id": "p047",
+        "quantity": 3,
+        "price": 20
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 210,
+    "order_time": "2026-05-07T17:17:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord040",
+    "user_id": "u010",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 1,
+        "price": 125
+      },
+      {
+        "product_id": "p019",
+        "quantity": 3,
+        "price": 110
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 455,
+    "order_time": "2026-05-07T22:32:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord041",
+    "user_id": "u011",
+    "products": [
+      {
+        "product_id": "p041",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p044",
+        "quantity": 1,
+        "price": 210
+      },
+      {
+        "product_id": "p042",
+        "quantity": 1,
+        "price": 45
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 475,
+    "order_time": "2026-05-08T02:49:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord042",
+    "user_id": "u012",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      },
+      {
+        "product_id": "p041",
+        "quantity": 3,
+        "price": 110
+      },
+      {
+        "product_id": "p057",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p056",
+        "quantity": 3,
+        "price": 80
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 1215,
+    "order_time": "2026-05-08T04:07:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord043",
+    "user_id": "u013",
+    "products": [
+      {
+        "product_id": "p017",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 3,
+        "price": 20
+      },
+      {
+        "product_id": "p016",
+        "quantity": 1,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 320,
+    "order_time": "2026-05-08T09:02:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord044",
+    "user_id": "u014",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 1,
+        "price": 35
+      },
+      {
+        "product_id": "p009",
+        "quantity": 3,
+        "price": 80
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 275,
+    "order_time": "2026-05-08T13:42:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord045",
+    "user_id": "u015",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 1,
+        "price": 30
+      },
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      },
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 105,
+    "order_time": "2026-05-08T19:01:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord046",
+    "user_id": "u016",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p019",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      },
+      {
+        "product_id": "p001",
+        "quantity": 1,
+        "price": 32
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 442,
+    "order_time": "2026-05-08T23:55:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord047",
+    "user_id": "u017",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      },
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 325,
+    "order_time": "2026-05-09T01:01:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord048",
+    "user_id": "u018",
+    "products": [
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      },
+      {
+        "product_id": "p014",
+        "quantity": 1,
+        "price": 40
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 140,
+    "order_time": "2026-05-09T06:22:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord049",
+    "user_id": "u019",
+    "products": [
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      },
+      {
+        "product_id": "p036",
+        "quantity": 2,
+        "price": 165
+      },
+      {
+        "product_id": "p008",
+        "quantity": 1,
+        "price": 35
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 420,
+    "order_time": "2026-05-09T10:02:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord050",
+    "user_id": "u020",
+    "products": [
+      {
+        "product_id": "p040",
+        "quantity": 2,
+        "price": 55
+      },
+      {
+        "product_id": "p039",
+        "quantity": 3,
+        "price": 130
+      },
+      {
+        "product_id": "p036",
+        "quantity": 3,
+        "price": 165
+      },
+      {
+        "product_id": "p038",
+        "quantity": 1,
+        "price": 145
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 1140,
+    "order_time": "2026-05-09T15:57:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord051",
+    "user_id": "u021",
+    "products": [
+      {
+        "product_id": "p023",
+        "quantity": 3,
+        "price": 120
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 450,
+    "order_time": "2026-05-09T16:33:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord052",
+    "user_id": "u022",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      },
+      {
+        "product_id": "p022",
+        "quantity": 3,
+        "price": 180
+      },
+      {
+        "product_id": "p001",
+        "quantity": 2,
+        "price": 32
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 879,
+    "order_time": "2026-05-09T20:46:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord053",
+    "user_id": "u023",
+    "products": [
+      {
+        "product_id": "p034",
+        "quantity": 2,
+        "price": 140
+      },
+      {
+        "product_id": "p035",
+        "quantity": 3,
+        "price": 95
+      },
+      {
+        "product_id": "p032",
+        "quantity": 2,
+        "price": 50
+      },
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 710,
+    "order_time": "2026-05-10T01:12:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord054",
+    "user_id": "u024",
+    "products": [
+      {
+        "product_id": "p023",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p050",
+        "quantity": 3,
+        "price": 250
+      },
+      {
+        "product_id": "p046",
+        "quantity": 1,
+        "price": 30
+      },
+      {
+        "product_id": "p047",
+        "quantity": 2,
+        "price": 20
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 1060,
+    "order_time": "2026-05-10T06:13:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord055",
+    "user_id": "u025",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 470,
+    "order_time": "2026-05-10T09:32:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord056",
+    "user_id": "u026",
+    "products": [
+      {
+        "product_id": "p042",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      },
+      {
+        "product_id": "p041",
+        "quantity": 3,
+        "price": 110
+      },
+      {
+        "product_id": "p044",
+        "quantity": 3,
+        "price": 210
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 1500,
+    "order_time": "2026-05-10T14:05:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord057",
+    "user_id": "u027",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 1,
+        "price": 135
+      },
+      {
+        "product_id": "p041",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "product_id": "p037",
+        "quantity": 1,
+        "price": 285
+      },
+      {
+        "product_id": "p057",
+        "quantity": 2,
+        "price": 120
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 770,
+    "order_time": "2026-05-10T16:29:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord058",
+    "user_id": "u028",
+    "products": [
+      {
+        "product_id": "p017",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      },
+      {
+        "product_id": "p013",
+        "quantity": 1,
+        "price": 50
+      },
+      {
+        "product_id": "p016",
+        "quantity": 3,
+        "price": 40
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 270,
+    "order_time": "2026-05-10T20:57:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord059",
+    "user_id": "u029",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 3,
+        "price": 35
+      },
+      {
+        "product_id": "p009",
+        "quantity": 3,
+        "price": 80
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 345,
+    "order_time": "2026-05-11T03:03:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord060",
+    "user_id": "u030",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      },
+      {
+        "product_id": "p011",
+        "quantity": 2,
+        "price": 25
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 70,
+    "order_time": "2026-05-11T06:48:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord061",
+    "user_id": "u001",
+    "products": [
+      {
+        "product_id": "p025",
+        "quantity": 1,
+        "price": 70
+      },
+      {
+        "product_id": "p019",
+        "quantity": 3,
+        "price": 110
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p003",
+        "quantity": 2,
+        "price": 60
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 610,
+    "order_time": "2026-05-11T10:48:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord062",
+    "user_id": "u002",
+    "products": [
+      {
+        "product_id": "p031",
+        "quantity": 2,
+        "price": 15
+      },
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p018",
+        "quantity": 1,
+        "price": 125
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 215,
+    "order_time": "2026-05-11T14:15:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord063",
+    "user_id": "u003",
+    "products": [
+      {
+        "product_id": "p016",
+        "quantity": 1,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 1,
+        "price": 50
+      },
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 110,
+    "order_time": "2026-05-11T19:44:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord064",
+    "user_id": "u004",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      },
+      {
+        "product_id": "p036",
+        "quantity": 2,
+        "price": 165
+      },
+      {
+        "product_id": "p012",
+        "quantity": 3,
+        "price": 55
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 565,
+    "order_time": "2026-05-11T23:26:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord065",
+    "user_id": "u005",
+    "products": [
+      {
+        "product_id": "p040",
+        "quantity": 3,
+        "price": 55
+      },
+      {
+        "product_id": "p036",
+        "quantity": 3,
+        "price": 165
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 660,
+    "order_time": "2026-05-12T00:54:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord066",
+    "user_id": "u006",
+    "products": [
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p022",
+        "quantity": 2,
+        "price": 180
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 590,
+    "order_time": "2026-05-12T05:31:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord067",
+    "user_id": "u007",
+    "products": [
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p001",
+        "quantity": 3,
+        "price": 32
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 326,
+    "order_time": "2026-05-12T11:46:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord068",
+    "user_id": "u008",
+    "products": [
+      {
+        "product_id": "p032",
+        "quantity": 2,
+        "price": 50
+      },
+      {
+        "product_id": "p034",
+        "quantity": 3,
+        "price": 140
+      },
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 565,
+    "order_time": "2026-05-12T12:05:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord069",
+    "user_id": "u009",
+    "products": [
+      {
+        "product_id": "p047",
+        "quantity": 1,
+        "price": 20
+      },
+      {
+        "product_id": "p023",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p046",
+        "quantity": 2,
+        "price": 30
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 320,
+    "order_time": "2026-05-12T18:13:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord070",
+    "user_id": "u010",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 470,
+    "order_time": "2026-05-12T22:53:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord071",
+    "user_id": "u011",
+    "products": [
+      {
+        "product_id": "p041",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p043",
+        "quantity": 1,
+        "price": 135
+      },
+      {
+        "product_id": "p044",
+        "quantity": 3,
+        "price": 210
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 985,
+    "order_time": "2026-05-13T00:49:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord072",
+    "user_id": "u012",
+    "products": [
+      {
+        "product_id": "p037",
+        "quantity": 1,
+        "price": 285
+      },
+      {
+        "product_id": "p041",
+        "quantity": 1,
+        "price": 110
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 395,
+    "order_time": "2026-05-13T05:15:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord073",
+    "user_id": "u013",
+    "products": [
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 3,
+        "price": 20
+      },
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 240,
+    "order_time": "2026-05-13T10:10:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord074",
+    "user_id": "u014",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      },
+      {
+        "product_id": "p009",
+        "quantity": 1,
+        "price": 80
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 150,
+    "order_time": "2026-05-13T12:59:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord075",
+    "user_id": "u015",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p011",
+        "quantity": 3,
+        "price": 25
+      },
+      {
+        "product_id": "p010",
+        "quantity": 3,
+        "price": 20
+      },
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 280,
+    "order_time": "2026-05-13T16:44:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord076",
+    "user_id": "u016",
+    "products": [
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      },
+      {
+        "product_id": "p001",
+        "quantity": 3,
+        "price": 32
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p019",
+        "quantity": 3,
+        "price": 110
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 656,
+    "order_time": "2026-05-13T22:04:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord077",
+    "user_id": "u017",
+    "products": [
+      {
+        "product_id": "p031",
+        "quantity": 2,
+        "price": 15
+      },
+      {
+        "product_id": "p018",
+        "quantity": 1,
+        "price": 125
+      },
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 215,
+    "order_time": "2026-05-14T02:40:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord078",
+    "user_id": "u018",
+    "products": [
+      {
+        "product_id": "p014",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 3,
+        "price": 50
+      },
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 390,
+    "order_time": "2026-05-14T07:52:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord079",
+    "user_id": "u019",
+    "products": [
+      {
+        "product_id": "p012",
+        "quantity": 2,
+        "price": 55
+      },
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      },
+      {
+        "product_id": "p036",
+        "quantity": 1,
+        "price": 165
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 345,
+    "order_time": "2026-05-14T11:36:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord080",
+    "user_id": "u020",
+    "products": [
+      {
+        "product_id": "p040",
+        "quantity": 2,
+        "price": 55
+      },
+      {
+        "product_id": "p039",
+        "quantity": 1,
+        "price": 130
+      },
+      {
+        "product_id": "p037",
+        "quantity": 2,
+        "price": 285
+      },
+      {
+        "product_id": "p038",
+        "quantity": 1,
+        "price": 145
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 955,
+    "order_time": "2026-05-14T14:51:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord081",
+    "user_id": "u021",
+    "products": [
+      {
+        "product_id": "p023",
+        "quantity": 1,
+        "price": 120
+      },
+      {
+        "product_id": "p005",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p025",
+        "quantity": 1,
+        "price": 70
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 325,
+    "order_time": "2026-05-14T16:15:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord082",
+    "user_id": "u022",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p022",
+        "quantity": 3,
+        "price": 180
+      },
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 815,
+    "order_time": "2026-05-14T23:50:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord083",
+    "user_id": "u023",
+    "products": [
+      {
+        "product_id": "p034",
+        "quantity": 2,
+        "price": 140
+      },
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 325,
+    "order_time": "2026-05-15T01:19:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord084",
+    "user_id": "u024",
+    "products": [
+      {
+        "product_id": "p050",
+        "quantity": 3,
+        "price": 250
+      },
+      {
+        "product_id": "p047",
+        "quantity": 3,
+        "price": 20
+      },
+      {
+        "product_id": "p023",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p046",
+        "quantity": 2,
+        "price": 30
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 1110,
+    "order_time": "2026-05-15T07:17:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord085",
+    "user_id": "u025",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 3,
+        "price": 125
+      },
+      {
+        "product_id": "p019",
+        "quantity": 1,
+        "price": 110
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 485,
+    "order_time": "2026-05-15T10:07:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord086",
+    "user_id": "u026",
+    "products": [
+      {
+        "product_id": "p042",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p041",
+        "quantity": 3,
+        "price": 110
+      },
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      },
+      {
+        "product_id": "p044",
+        "quantity": 3,
+        "price": 210
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 1455,
+    "order_time": "2026-05-15T14:06:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord087",
+    "user_id": "u027",
+    "products": [
+      {
+        "product_id": "p041",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p043",
+        "quantity": 1,
+        "price": 135
+      },
+      {
+        "product_id": "p037",
+        "quantity": 3,
+        "price": 285
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 1210,
+    "order_time": "2026-05-15T17:17:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord088",
+    "user_id": "u028",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      },
+      {
+        "product_id": "p013",
+        "quantity": 3,
+        "price": 50
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 170,
+    "order_time": "2026-05-15T23:06:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord089",
+    "user_id": "u029",
+    "products": [
+      {
+        "product_id": "p009",
+        "quantity": 2,
+        "price": 80
+      },
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 230,
+    "order_time": "2026-05-16T02:11:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord090",
+    "user_id": "u030",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 155,
+    "order_time": "2026-05-16T04:09:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord091",
+    "user_id": "u001",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p001",
+        "quantity": 2,
+        "price": 32
+      },
+      {
+        "product_id": "p019",
+        "quantity": 3,
+        "price": 110
+      },
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 739,
+    "order_time": "2026-05-16T09:49:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord092",
+    "user_id": "u002",
+    "products": [
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      },
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 355,
+    "order_time": "2026-05-16T12:39:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord093",
+    "user_id": "u003",
+    "products": [
+      {
+        "product_id": "p014",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 1,
+        "price": 50
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 170,
+    "order_time": "2026-05-16T17:15:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord094",
+    "user_id": "u004",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      },
+      {
+        "product_id": "p036",
+        "quantity": 2,
+        "price": 165
+      },
+      {
+        "product_id": "p012",
+        "quantity": 3,
+        "price": 55
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 565,
+    "order_time": "2026-05-16T23:18:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord095",
+    "user_id": "u005",
+    "products": [
+      {
+        "product_id": "p039",
+        "quantity": 3,
+        "price": 130
+      },
+      {
+        "product_id": "p036",
+        "quantity": 2,
+        "price": 165
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 720,
+    "order_time": "2026-05-17T00:43:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord096",
+    "user_id": "u006",
+    "products": [
+      {
+        "product_id": "p005",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "product_id": "p022",
+        "quantity": 3,
+        "price": 180
+      },
+      {
+        "product_id": "p025",
+        "quantity": 1,
+        "price": 70
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 655,
+    "order_time": "2026-05-17T05:58:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord097",
+    "user_id": "u007",
+    "products": [
+      {
+        "product_id": "p001",
+        "quantity": 1,
+        "price": 32
+      },
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 172,
+    "order_time": "2026-05-17T10:28:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord098",
+    "user_id": "u008",
+    "products": [
+      {
+        "product_id": "p034",
+        "quantity": 2,
+        "price": 140
+      },
+      {
+        "product_id": "p035",
+        "quantity": 3,
+        "price": 95
+      },
+      {
+        "product_id": "p032",
+        "quantity": 3,
+        "price": 50
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 715,
+    "order_time": "2026-05-17T15:28:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord099",
+    "user_id": "u009",
+    "products": [
+      {
+        "product_id": "p046",
+        "quantity": 1,
+        "price": 30
+      },
+      {
+        "product_id": "p047",
+        "quantity": 1,
+        "price": 20
+      },
+      {
+        "product_id": "p050",
+        "quantity": 1,
+        "price": 250
+      },
+      {
+        "product_id": "p023",
+        "quantity": 3,
+        "price": 120
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 660,
+    "order_time": "2026-05-17T16:48:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord100",
+    "user_id": "u010",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      },
+      {
+        "product_id": "p019",
+        "quantity": 3,
+        "price": 110
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 580,
+    "order_time": "2026-05-17T23:58:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord101",
+    "user_id": "u011",
+    "products": [
+      {
+        "product_id": "p044",
+        "quantity": 2,
+        "price": 210
+      },
+      {
+        "product_id": "p043",
+        "quantity": 1,
+        "price": 135
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 555,
+    "order_time": "2026-05-18T03:22:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord102",
+    "user_id": "u012",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 2,
+        "price": 135
+      },
+      {
+        "product_id": "p037",
+        "quantity": 2,
+        "price": 285
+      },
+      {
+        "product_id": "p056",
+        "quantity": 3,
+        "price": 80
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 1080,
+    "order_time": "2026-05-18T07:18:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord103",
+    "user_id": "u013",
+    "products": [
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p017",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 260,
+    "order_time": "2026-05-18T08:49:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord104",
+    "user_id": "u014",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      },
+      {
+        "product_id": "p009",
+        "quantity": 1,
+        "price": 80
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 150,
+    "order_time": "2026-05-18T13:33:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord105",
+    "user_id": "u015",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 1,
+        "price": 30
+      },
+      {
+        "product_id": "p012",
+        "quantity": 2,
+        "price": 55
+      },
+      {
+        "product_id": "p011",
+        "quantity": 3,
+        "price": 25
+      },
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 235,
+    "order_time": "2026-05-18T18:28:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord106",
+    "user_id": "u016",
+    "products": [
+      {
+        "product_id": "p001",
+        "quantity": 3,
+        "price": 32
+      },
+      {
+        "product_id": "p003",
+        "quantity": 1,
+        "price": 60
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 156,
+    "order_time": "2026-05-18T22:35:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord107",
+    "user_id": "u017",
+    "products": [
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      },
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      },
+      {
+        "product_id": "p015",
+        "quantity": 1,
+        "price": 30
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 295,
+    "order_time": "2026-05-19T01:31:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord108",
+    "user_id": "u018",
+    "products": [
+      {
+        "product_id": "p016",
+        "quantity": 1,
+        "price": 40
+      },
+      {
+        "product_id": "p014",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 3,
+        "price": 50
+      },
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 290,
+    "order_time": "2026-05-19T07:12:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord109",
+    "user_id": "u019",
+    "products": [
+      {
+        "product_id": "p036",
+        "quantity": 2,
+        "price": 165
+      },
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      },
+      {
+        "product_id": "p012",
+        "quantity": 2,
+        "price": 55
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 510,
+    "order_time": "2026-05-19T10:52:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord110",
+    "user_id": "u020",
+    "products": [
+      {
+        "product_id": "p039",
+        "quantity": 2,
+        "price": 130
+      },
+      {
+        "product_id": "p040",
+        "quantity": 3,
+        "price": 55
+      },
+      {
+        "product_id": "p037",
+        "quantity": 2,
+        "price": 285
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 995,
+    "order_time": "2026-05-19T14:21:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord111",
+    "user_id": "u021",
+    "products": [
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      },
+      {
+        "product_id": "p005",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "product_id": "p022",
+        "quantity": 3,
+        "price": 180
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 885,
+    "order_time": "2026-05-19T17:54:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord112",
+    "user_id": "u022",
+    "products": [
+      {
+        "product_id": "p022",
+        "quantity": 2,
+        "price": 180
+      },
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 570,
+    "order_time": "2026-05-19T23:24:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord113",
+    "user_id": "u023",
+    "products": [
+      {
+        "product_id": "p032",
+        "quantity": 3,
+        "price": 50
+      },
+      {
+        "product_id": "p035",
+        "quantity": 3,
+        "price": 95
+      },
+      {
+        "product_id": "p031",
+        "quantity": 2,
+        "price": 15
+      },
+      {
+        "product_id": "p034",
+        "quantity": 1,
+        "price": 140
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 605,
+    "order_time": "2026-05-20T03:06:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord114",
+    "user_id": "u024",
+    "products": [
+      {
+        "product_id": "p046",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p050",
+        "quantity": 3,
+        "price": 250
+      },
+      {
+        "product_id": "p023",
+        "quantity": 1,
+        "price": 120
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 930,
+    "order_time": "2026-05-20T04:30:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord115",
+    "user_id": "u025",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p018",
+        "quantity": 3,
+        "price": 125
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 595,
+    "order_time": "2026-05-20T11:20:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord116",
+    "user_id": "u026",
+    "products": [
+      {
+        "product_id": "p044",
+        "quantity": 1,
+        "price": 210
+      },
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      },
+      {
+        "product_id": "p041",
+        "quantity": 3,
+        "price": 110
+      },
+      {
+        "product_id": "p042",
+        "quantity": 2,
+        "price": 45
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 1035,
+    "order_time": "2026-05-20T13:47:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord117",
+    "user_id": "u027",
+    "products": [
+      {
+        "product_id": "p037",
+        "quantity": 1,
+        "price": 285
+      },
+      {
+        "product_id": "p057",
+        "quantity": 3,
+        "price": 120
+      },
+      {
+        "product_id": "p041",
+        "quantity": 2,
+        "price": 110
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 865,
+    "order_time": "2026-05-20T16:02:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord118",
+    "user_id": "u028",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p017",
+        "quantity": 2,
+        "price": 40
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 120,
+    "order_time": "2026-05-20T21:15:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord119",
+    "user_id": "u029",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 1,
+        "price": 35
+      },
+      {
+        "product_id": "p009",
+        "quantity": 1,
+        "price": 80
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 115,
+    "order_time": "2026-05-21T03:39:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord120",
+    "user_id": "u030",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 1,
+        "price": 30
+      },
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 85,
+    "order_time": "2026-05-21T07:40:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord121",
+    "user_id": "u001",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p001",
+        "quantity": 3,
+        "price": 32
+      },
+      {
+        "product_id": "p003",
+        "quantity": 3,
+        "price": 60
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 366,
+    "order_time": "2026-05-21T09:04:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord122",
+    "user_id": "u002",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p031",
+        "quantity": 2,
+        "price": 15
+      },
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 370,
+    "order_time": "2026-05-21T14:12:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord123",
+    "user_id": "u003",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 3,
+        "price": 20
+      },
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      },
+      {
+        "product_id": "p014",
+        "quantity": 3,
+        "price": 40
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 280,
+    "order_time": "2026-05-21T18:44:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord124",
+    "user_id": "u004",
+    "products": [
+      {
+        "product_id": "p036",
+        "quantity": 2,
+        "price": 165
+      },
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 385,
+    "order_time": "2026-05-21T20:58:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord125",
+    "user_id": "u005",
+    "products": [
+      {
+        "product_id": "p040",
+        "quantity": 1,
+        "price": 55
+      },
+      {
+        "product_id": "p039",
+        "quantity": 3,
+        "price": 130
+      },
+      {
+        "product_id": "p037",
+        "quantity": 1,
+        "price": 285
+      },
+      {
+        "product_id": "p038",
+        "quantity": 3,
+        "price": 145
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 1165,
+    "order_time": "2026-05-22T02:43:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord126",
+    "user_id": "u006",
+    "products": [
+      {
+        "product_id": "p022",
+        "quantity": 2,
+        "price": 180
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p023",
+        "quantity": 1,
+        "price": 120
+      },
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 780,
+    "order_time": "2026-05-22T06:46:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord127",
+    "user_id": "u007",
+    "products": [
+      {
+        "product_id": "p022",
+        "quantity": 3,
+        "price": 180
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 630,
+    "order_time": "2026-05-22T09:12:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord128",
+    "user_id": "u008",
+    "products": [
+      {
+        "product_id": "p034",
+        "quantity": 2,
+        "price": 140
+      },
+      {
+        "product_id": "p035",
+        "quantity": 2,
+        "price": 95
+      },
+      {
+        "product_id": "p032",
+        "quantity": 2,
+        "price": 50
+      },
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 615,
+    "order_time": "2026-05-22T14:51:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord129",
+    "user_id": "u009",
+    "products": [
+      {
+        "product_id": "p046",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p023",
+        "quantity": 3,
+        "price": 120
+      },
+      {
+        "product_id": "p050",
+        "quantity": 3,
+        "price": 250
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 1200,
+    "order_time": "2026-05-22T19:54:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord130",
+    "user_id": "u010",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 1,
+        "price": 125
+      },
+      {
+        "product_id": "p019",
+        "quantity": 2,
+        "price": 110
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 345,
+    "order_time": "2026-05-22T20:29:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord131",
+    "user_id": "u011",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 1,
+        "price": 135
+      },
+      {
+        "product_id": "p044",
+        "quantity": 3,
+        "price": 210
+      },
+      {
+        "product_id": "p042",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "product_id": "p041",
+        "quantity": 2,
+        "price": 110
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 1030,
+    "order_time": "2026-05-23T00:39:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord132",
+    "user_id": "u012",
+    "products": [
+      {
+        "product_id": "p057",
+        "quantity": 1,
+        "price": 120
+      },
+      {
+        "product_id": "p041",
+        "quantity": 3,
+        "price": 110
+      },
+      {
+        "product_id": "p043",
+        "quantity": 2,
+        "price": 135
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 720,
+    "order_time": "2026-05-23T06:41:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord133",
+    "user_id": "u013",
+    "products": [
+      {
+        "product_id": "p017",
+        "quantity": 1,
+        "price": 40
+      },
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 120,
+    "order_time": "2026-05-23T11:07:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord134",
+    "user_id": "u014",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      },
+      {
+        "product_id": "p009",
+        "quantity": 2,
+        "price": 80
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 230,
+    "order_time": "2026-05-23T15:37:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord135",
+    "user_id": "u015",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p011",
+        "quantity": 1,
+        "price": 25
+      },
+      {
+        "product_id": "p012",
+        "quantity": 3,
+        "price": 55
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 230,
+    "order_time": "2026-05-23T18:13:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord136",
+    "user_id": "u016",
+    "products": [
+      {
+        "product_id": "p003",
+        "quantity": 3,
+        "price": 60
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p001",
+        "quantity": 3,
+        "price": 32
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 366,
+    "order_time": "2026-05-23T22:03:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord137",
+    "user_id": "u017",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 1,
+        "price": 125
+      },
+      {
+        "product_id": "p015",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 230,
+    "order_time": "2026-05-24T00:03:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord138",
+    "user_id": "u018",
+    "products": [
+      {
+        "product_id": "p014",
+        "quantity": 1,
+        "price": 40
+      },
+      {
+        "product_id": "p016",
+        "quantity": 1,
+        "price": 40
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 80,
+    "order_time": "2026-05-24T05:37:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord139",
+    "user_id": "u019",
+    "products": [
+      {
+        "product_id": "p012",
+        "quantity": 3,
+        "price": 55
+      },
+      {
+        "product_id": "p008",
+        "quantity": 1,
+        "price": 35
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 200,
+    "order_time": "2026-05-24T10:54:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord140",
+    "user_id": "u020",
+    "products": [
+      {
+        "product_id": "p036",
+        "quantity": 1,
+        "price": 165
+      },
+      {
+        "product_id": "p039",
+        "quantity": 1,
+        "price": 130
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 295,
+    "order_time": "2026-05-24T12:08:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord141",
+    "user_id": "u021",
+    "products": [
+      {
+        "product_id": "p022",
+        "quantity": 1,
+        "price": 180
+      },
+      {
+        "product_id": "p023",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p021",
+        "quantity": 1,
+        "price": 45
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 465,
+    "order_time": "2026-05-24T17:47:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord142",
+    "user_id": "u022",
+    "products": [
+      {
+        "product_id": "p001",
+        "quantity": 2,
+        "price": 32
+      },
+      {
+        "product_id": "p022",
+        "quantity": 2,
+        "price": 180
+      },
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 769,
+    "order_time": "2026-05-24T20:28:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord143",
+    "user_id": "u023",
+    "products": [
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      },
+      {
+        "product_id": "p034",
+        "quantity": 3,
+        "price": 140
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 465,
+    "order_time": "2026-05-25T02:29:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord144",
+    "user_id": "u024",
+    "products": [
+      {
+        "product_id": "p046",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p047",
+        "quantity": 2,
+        "price": 20
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 100,
+    "order_time": "2026-05-25T04:31:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord145",
+    "user_id": "u025",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 3,
+        "price": 125
+      },
+      {
+        "product_id": "p019",
+        "quantity": 1,
+        "price": 110
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 485,
+    "order_time": "2026-05-25T08:08:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord146",
+    "user_id": "u026",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      },
+      {
+        "product_id": "p042",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p044",
+        "quantity": 2,
+        "price": 210
+      },
+      {
+        "product_id": "p041",
+        "quantity": 1,
+        "price": 110
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 1070,
+    "order_time": "2026-05-25T12:54:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord147",
+    "user_id": "u027",
+    "products": [
+      {
+        "product_id": "p057",
+        "quantity": 1,
+        "price": 120
+      },
+      {
+        "product_id": "p041",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p056",
+        "quantity": 2,
+        "price": 80
+      },
+      {
+        "product_id": "p043",
+        "quantity": 2,
+        "price": 135
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 770,
+    "order_time": "2026-05-25T19:26:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord148",
+    "user_id": "u028",
+    "products": [
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      },
+      {
+        "product_id": "p017",
+        "quantity": 1,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 3,
+        "price": 20
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 200,
+    "order_time": "2026-05-25T23:04:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord149",
+    "user_id": "u029",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 1,
+        "price": 35
+      },
+      {
+        "product_id": "p009",
+        "quantity": 3,
+        "price": 80
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 275,
+    "order_time": "2026-05-26T02:51:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord150",
+    "user_id": "u030",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p012",
+        "quantity": 2,
+        "price": 55
+      },
+      {
+        "product_id": "p011",
+        "quantity": 3,
+        "price": 25
+      },
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 285,
+    "order_time": "2026-05-26T04:18:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord151",
+    "user_id": "u001",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p001",
+        "quantity": 1,
+        "price": 32
+      },
+      {
+        "product_id": "p025",
+        "quantity": 1,
+        "price": 70
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 237,
+    "order_time": "2026-05-26T11:14:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord152",
+    "user_id": "u002",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      },
+      {
+        "product_id": "p018",
+        "quantity": 1,
+        "price": 125
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 230,
+    "order_time": "2026-05-26T15:54:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord153",
+    "user_id": "u003",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      },
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p014",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 320,
+    "order_time": "2026-05-26T18:22:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord154",
+    "user_id": "u004",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 1,
+        "price": 35
+      },
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 90,
+    "order_time": "2026-05-26T20:05:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord155",
+    "user_id": "u005",
+    "products": [
+      {
+        "product_id": "p040",
+        "quantity": 2,
+        "price": 55
+      },
+      {
+        "product_id": "p036",
+        "quantity": 2,
+        "price": 165
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 440,
+    "order_time": "2026-05-27T01:23:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord156",
+    "user_id": "u006",
+    "products": [
+      {
+        "product_id": "p023",
+        "quantity": 1,
+        "price": 120
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p025",
+        "quantity": 1,
+        "price": 70
+      },
+      {
+        "product_id": "p005",
+        "quantity": 3,
+        "price": 45
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 460,
+    "order_time": "2026-05-27T04:17:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord157",
+    "user_id": "u007",
+    "products": [
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      },
+      {
+        "product_id": "p021",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "product_id": "p022",
+        "quantity": 3,
+        "price": 180
+      },
+      {
+        "product_id": "p001",
+        "quantity": 1,
+        "price": 32
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 757,
+    "order_time": "2026-05-27T10:27:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord158",
+    "user_id": "u008",
+    "products": [
+      {
+        "product_id": "p035",
+        "quantity": 1,
+        "price": 95
+      },
+      {
+        "product_id": "p034",
+        "quantity": 1,
+        "price": 140
+      },
+      {
+        "product_id": "p032",
+        "quantity": 2,
+        "price": 50
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 335,
+    "order_time": "2026-05-27T12:00:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord159",
+    "user_id": "u009",
+    "products": [
+      {
+        "product_id": "p047",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p046",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p023",
+        "quantity": 1,
+        "price": 120
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 220,
+    "order_time": "2026-05-27T16:31:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord160",
+    "user_id": "u010",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 3,
+        "price": 125
+      },
+      {
+        "product_id": "p019",
+        "quantity": 3,
+        "price": 110
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 705,
+    "order_time": "2026-05-27T21:32:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord161",
+    "user_id": "u011",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 2,
+        "price": 135
+      },
+      {
+        "product_id": "p041",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "product_id": "p042",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p044",
+        "quantity": 1,
+        "price": 210
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 680,
+    "order_time": "2026-05-28T02:36:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord162",
+    "user_id": "u012",
+    "products": [
+      {
+        "product_id": "p056",
+        "quantity": 2,
+        "price": 80
+      },
+      {
+        "product_id": "p057",
+        "quantity": 1,
+        "price": 120
+      },
+      {
+        "product_id": "p041",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p037",
+        "quantity": 1,
+        "price": 285
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 785,
+    "order_time": "2026-05-28T07:53:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord163",
+    "user_id": "u013",
+    "products": [
+      {
+        "product_id": "p013",
+        "quantity": 1,
+        "price": 50
+      },
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 130,
+    "order_time": "2026-05-28T11:33:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord164",
+    "user_id": "u014",
+    "products": [
+      {
+        "product_id": "p009",
+        "quantity": 1,
+        "price": 80
+      },
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 150,
+    "order_time": "2026-05-28T13:04:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord165",
+    "user_id": "u015",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p012",
+        "quantity": 3,
+        "price": 55
+      },
+      {
+        "product_id": "p015",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p011",
+        "quantity": 1,
+        "price": 25
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 320,
+    "order_time": "2026-05-28T17:06:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord166",
+    "user_id": "u016",
+    "products": [
+      {
+        "product_id": "p003",
+        "quantity": 1,
+        "price": 60
+      },
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      },
+      {
+        "product_id": "p021",
+        "quantity": 1,
+        "price": 45
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 315,
+    "order_time": "2026-05-28T21:49:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord167",
+    "user_id": "u017",
+    "products": [
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      },
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p018",
+        "quantity": 1,
+        "price": 125
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 230,
+    "order_time": "2026-05-29T03:04:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord168",
+    "user_id": "u018",
+    "products": [
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p014",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 220,
+    "order_time": "2026-05-29T06:29:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord169",
+    "user_id": "u019",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      },
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 125,
+    "order_time": "2026-05-29T08:39:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord170",
+    "user_id": "u020",
+    "products": [
+      {
+        "product_id": "p040",
+        "quantity": 2,
+        "price": 55
+      },
+      {
+        "product_id": "p036",
+        "quantity": 3,
+        "price": 165
+      },
+      {
+        "product_id": "p039",
+        "quantity": 3,
+        "price": 130
+      },
+      {
+        "product_id": "p037",
+        "quantity": 1,
+        "price": 285
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 1280,
+    "order_time": "2026-05-29T14:38:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord171",
+    "user_id": "u021",
+    "products": [
+      {
+        "product_id": "p022",
+        "quantity": 2,
+        "price": 180
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p005",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 750,
+    "order_time": "2026-05-29T17:02:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord172",
+    "user_id": "u022",
+    "products": [
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p001",
+        "quantity": 2,
+        "price": 32
+      },
+      {
+        "product_id": "p022",
+        "quantity": 2,
+        "price": 180
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 654,
+    "order_time": "2026-05-29T22:43:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord173",
+    "user_id": "u023",
+    "products": [
+      {
+        "product_id": "p034",
+        "quantity": 2,
+        "price": 140
+      },
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 295,
+    "order_time": "2026-05-30T03:18:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord174",
+    "user_id": "u024",
+    "products": [
+      {
+        "product_id": "p047",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p023",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p046",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p050",
+        "quantity": 3,
+        "price": 250
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 1120,
+    "order_time": "2026-05-30T07:08:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord175",
+    "user_id": "u025",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 3,
+        "price": 125
+      },
+      {
+        "product_id": "p019",
+        "quantity": 2,
+        "price": 110
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 595,
+    "order_time": "2026-05-30T10:52:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord176",
+    "user_id": "u026",
+    "products": [
+      {
+        "product_id": "p041",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "product_id": "p043",
+        "quantity": 2,
+        "price": 135
+      },
+      {
+        "product_id": "p042",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p044",
+        "quantity": 1,
+        "price": 210
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 680,
+    "order_time": "2026-05-30T13:21:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord177",
+    "user_id": "u027",
+    "products": [
+      {
+        "product_id": "p041",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "product_id": "p057",
+        "quantity": 1,
+        "price": 120
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 230,
+    "order_time": "2026-05-30T18:54:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord178",
+    "user_id": "u028",
+    "products": [
+      {
+        "product_id": "p016",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p017",
+        "quantity": 1,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 1,
+        "price": 50
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 250,
+    "order_time": "2026-05-30T21:53:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord179",
+    "user_id": "u029",
+    "products": [
+      {
+        "product_id": "p009",
+        "quantity": 2,
+        "price": 80
+      },
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 230,
+    "order_time": "2026-05-31T01:28:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord180",
+    "user_id": "u030",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 155,
+    "order_time": "2026-05-31T06:43:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord181",
+    "user_id": "u001",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 3,
+        "price": 110
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p003",
+        "quantity": 2,
+        "price": 60
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 585,
+    "order_time": "2026-05-31T09:52:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord182",
+    "user_id": "u002",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 3,
+        "price": 125
+      },
+      {
+        "product_id": "p031",
+        "quantity": 2,
+        "price": 15
+      },
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 465,
+    "order_time": "2026-05-31T12:45:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord183",
+    "user_id": "u003",
+    "products": [
+      {
+        "product_id": "p016",
+        "quantity": 1,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 80,
+    "order_time": "2026-05-31T19:57:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord184",
+    "user_id": "u004",
+    "products": [
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      },
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 125,
+    "order_time": "2026-05-31T22:59:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord185",
+    "user_id": "u005",
+    "products": [
+      {
+        "product_id": "p037",
+        "quantity": 2,
+        "price": 285
+      },
+      {
+        "product_id": "p040",
+        "quantity": 1,
+        "price": 55
+      },
+      {
+        "product_id": "p039",
+        "quantity": 2,
+        "price": 130
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 885,
+    "order_time": "2026-06-01T00:23:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord186",
+    "user_id": "u006",
+    "products": [
+      {
+        "product_id": "p023",
+        "quantity": 3,
+        "price": 120
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 495,
+    "order_time": "2026-06-01T06:50:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord187",
+    "user_id": "u007",
+    "products": [
+      {
+        "product_id": "p001",
+        "quantity": 2,
+        "price": 32
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 199,
+    "order_time": "2026-06-01T09:48:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord188",
+    "user_id": "u008",
+    "products": [
+      {
+        "product_id": "p031",
+        "quantity": 2,
+        "price": 15
+      },
+      {
+        "product_id": "p035",
+        "quantity": 1,
+        "price": 95
+      },
+      {
+        "product_id": "p034",
+        "quantity": 1,
+        "price": 140
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 265,
+    "order_time": "2026-06-01T15:07:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord189",
+    "user_id": "u009",
+    "products": [
+      {
+        "product_id": "p050",
+        "quantity": 1,
+        "price": 250
+      },
+      {
+        "product_id": "p046",
+        "quantity": 1,
+        "price": 30
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 280,
+    "order_time": "2026-06-01T19:40:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord190",
+    "user_id": "u010",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      },
+      {
+        "product_id": "p019",
+        "quantity": 3,
+        "price": 110
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 580,
+    "order_time": "2026-06-01T20:40:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord191",
+    "user_id": "u011",
+    "products": [
+      {
+        "product_id": "p042",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p043",
+        "quantity": 1,
+        "price": 135
+      },
+      {
+        "product_id": "p041",
+        "quantity": 3,
+        "price": 110
+      },
+      {
+        "product_id": "p044",
+        "quantity": 2,
+        "price": 210
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 975,
+    "order_time": "2026-06-02T01:36:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord192",
+    "user_id": "u012",
+    "products": [
+      {
+        "product_id": "p037",
+        "quantity": 1,
+        "price": 285
+      },
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 690,
+    "order_time": "2026-06-02T04:24:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord193",
+    "user_id": "u013",
+    "products": [
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      },
+      {
+        "product_id": "p017",
+        "quantity": 3,
+        "price": 40
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 220,
+    "order_time": "2026-06-02T08:22:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord194",
+    "user_id": "u014",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 3,
+        "price": 35
+      },
+      {
+        "product_id": "p009",
+        "quantity": 3,
+        "price": 80
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 345,
+    "order_time": "2026-06-02T14:08:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord195",
+    "user_id": "u015",
+    "products": [
+      {
+        "product_id": "p012",
+        "quantity": 3,
+        "price": 55
+      },
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p010",
+        "quantity": 3,
+        "price": 20
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 285,
+    "order_time": "2026-06-02T19:40:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord196",
+    "user_id": "u016",
+    "products": [
+      {
+        "product_id": "p001",
+        "quantity": 1,
+        "price": 32
+      },
+      {
+        "product_id": "p019",
+        "quantity": 2,
+        "price": 110
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 252,
+    "order_time": "2026-06-02T21:02:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord197",
+    "user_id": "u017",
+    "products": [
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      },
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 105,
+    "order_time": "2026-06-03T03:16:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord198",
+    "user_id": "u018",
+    "products": [
+      {
+        "product_id": "p014",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      },
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 320,
+    "order_time": "2026-06-03T06:27:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord199",
+    "user_id": "u019",
+    "products": [
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      },
+      {
+        "product_id": "p036",
+        "quantity": 2,
+        "price": 165
+      },
+      {
+        "product_id": "p008",
+        "quantity": 3,
+        "price": 35
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 490,
+    "order_time": "2026-06-03T11:23:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord200",
+    "user_id": "u020",
+    "products": [
+      {
+        "product_id": "p037",
+        "quantity": 2,
+        "price": 285
+      },
+      {
+        "product_id": "p040",
+        "quantity": 3,
+        "price": 55
+      },
+      {
+        "product_id": "p036",
+        "quantity": 1,
+        "price": 165
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 900,
+    "order_time": "2026-06-03T14:20:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord201",
+    "user_id": "u021",
+    "products": [
+      {
+        "product_id": "p023",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p005",
+        "quantity": 2,
+        "price": 45
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 330,
+    "order_time": "2026-06-03T19:10:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord202",
+    "user_id": "u022",
+    "products": [
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      },
+      {
+        "product_id": "p001",
+        "quantity": 2,
+        "price": 32
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 364,
+    "order_time": "2026-06-03T20:04:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord203",
+    "user_id": "u023",
+    "products": [
+      {
+        "product_id": "p035",
+        "quantity": 1,
+        "price": 95
+      },
+      {
+        "product_id": "p032",
+        "quantity": 3,
+        "price": 50
+      },
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      },
+      {
+        "product_id": "p034",
+        "quantity": 2,
+        "price": 140
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 570,
+    "order_time": "2026-06-04T00:08:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord204",
+    "user_id": "u024",
+    "products": [
+      {
+        "product_id": "p050",
+        "quantity": 2,
+        "price": 250
+      },
+      {
+        "product_id": "p047",
+        "quantity": 3,
+        "price": 20
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 560,
+    "order_time": "2026-06-04T04:38:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord205",
+    "user_id": "u025",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 470,
+    "order_time": "2026-06-04T08:36:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord206",
+    "user_id": "u026",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 1,
+        "price": 135
+      },
+      {
+        "product_id": "p042",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "product_id": "p044",
+        "quantity": 1,
+        "price": 210
+      },
+      {
+        "product_id": "p041",
+        "quantity": 3,
+        "price": 110
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 720,
+    "order_time": "2026-06-04T13:31:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord207",
+    "user_id": "u027",
+    "products": [
+      {
+        "product_id": "p057",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p037",
+        "quantity": 3,
+        "price": 285
+      },
+      {
+        "product_id": "p041",
+        "quantity": 2,
+        "price": 110
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 1315,
+    "order_time": "2026-06-04T17:39:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord208",
+    "user_id": "u028",
+    "products": [
+      {
+        "product_id": "p013",
+        "quantity": 1,
+        "price": 50
+      },
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      },
+      {
+        "product_id": "p017",
+        "quantity": 3,
+        "price": 40
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 270,
+    "order_time": "2026-06-04T23:05:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord209",
+    "user_id": "u029",
+    "products": [
+      {
+        "product_id": "p009",
+        "quantity": 3,
+        "price": 80
+      },
+      {
+        "product_id": "p008",
+        "quantity": 3,
+        "price": 35
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 345,
+    "order_time": "2026-06-05T02:57:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord210",
+    "user_id": "u030",
+    "products": [
+      {
+        "product_id": "p011",
+        "quantity": 3,
+        "price": 25
+      },
+      {
+        "product_id": "p015",
+        "quantity": 1,
+        "price": 30
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 105,
+    "order_time": "2026-06-05T04:12:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord211",
+    "user_id": "u001",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p001",
+        "quantity": 3,
+        "price": 32
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 316,
+    "order_time": "2026-06-05T10:29:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord212",
+    "user_id": "u002",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 1,
+        "price": 30
+      },
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 280,
+    "order_time": "2026-06-05T15:45:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord213",
+    "user_id": "u003",
+    "products": [
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      },
+      {
+        "product_id": "p014",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      },
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 320,
+    "order_time": "2026-06-05T19:43:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord214",
+    "user_id": "u004",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      },
+      {
+        "product_id": "p036",
+        "quantity": 3,
+        "price": 165
+      },
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 620,
+    "order_time": "2026-06-05T20:33:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord215",
+    "user_id": "u005",
+    "products": [
+      {
+        "product_id": "p038",
+        "quantity": 3,
+        "price": 145
+      },
+      {
+        "product_id": "p036",
+        "quantity": 1,
+        "price": 165
+      },
+      {
+        "product_id": "p040",
+        "quantity": 2,
+        "price": 55
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 710,
+    "order_time": "2026-06-06T02:54:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord216",
+    "user_id": "u006",
+    "products": [
+      {
+        "product_id": "p022",
+        "quantity": 3,
+        "price": 180
+      },
+      {
+        "product_id": "p023",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 915,
+    "order_time": "2026-06-06T04:32:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord217",
+    "user_id": "u007",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p001",
+        "quantity": 3,
+        "price": 32
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 231,
+    "order_time": "2026-06-06T10:53:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord218",
+    "user_id": "u008",
+    "products": [
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      },
+      {
+        "product_id": "p035",
+        "quantity": 3,
+        "price": 95
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 300,
+    "order_time": "2026-06-06T14:41:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord219",
+    "user_id": "u009",
+    "products": [
+      {
+        "product_id": "p023",
+        "quantity": 3,
+        "price": 120
+      },
+      {
+        "product_id": "p050",
+        "quantity": 3,
+        "price": 250
+      },
+      {
+        "product_id": "p046",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p047",
+        "quantity": 3,
+        "price": 20
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 1230,
+    "order_time": "2026-06-06T18:30:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord220",
+    "user_id": "u010",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p018",
+        "quantity": 1,
+        "price": 125
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 345,
+    "order_time": "2026-06-06T20:10:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord221",
+    "user_id": "u011",
+    "products": [
+      {
+        "product_id": "p044",
+        "quantity": 2,
+        "price": 210
+      },
+      {
+        "product_id": "p042",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p041",
+        "quantity": 1,
+        "price": 110
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 665,
+    "order_time": "2026-06-07T02:55:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord222",
+    "user_id": "u012",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      },
+      {
+        "product_id": "p056",
+        "quantity": 3,
+        "price": 80
+      },
+      {
+        "product_id": "p037",
+        "quantity": 1,
+        "price": 285
+      },
+      {
+        "product_id": "p041",
+        "quantity": 2,
+        "price": 110
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 1150,
+    "order_time": "2026-06-07T05:29:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord223",
+    "user_id": "u013",
+    "products": [
+      {
+        "product_id": "p013",
+        "quantity": 1,
+        "price": 50
+      },
+      {
+        "product_id": "p016",
+        "quantity": 1,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 130,
+    "order_time": "2026-06-07T11:55:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord224",
+    "user_id": "u014",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      },
+      {
+        "product_id": "p009",
+        "quantity": 3,
+        "price": 80
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 310,
+    "order_time": "2026-06-07T14:12:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord225",
+    "user_id": "u015",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p011",
+        "quantity": 1,
+        "price": 25
+      },
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 140,
+    "order_time": "2026-06-07T19:32:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord226",
+    "user_id": "u016",
+    "products": [
+      {
+        "product_id": "p003",
+        "quantity": 1,
+        "price": 60
+      },
+      {
+        "product_id": "p021",
+        "quantity": 1,
+        "price": 45
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 105,
+    "order_time": "2026-06-07T22:31:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord227",
+    "user_id": "u017",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      },
+      {
+        "product_id": "p018",
+        "quantity": 1,
+        "price": 125
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 230,
+    "order_time": "2026-06-08T03:08:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord228",
+    "user_id": "u018",
+    "products": [
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p014",
+        "quantity": 1,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 3,
+        "price": 50
+      },
+      {
+        "product_id": "p010",
+        "quantity": 3,
+        "price": 20
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 330,
+    "order_time": "2026-06-08T05:23:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord229",
+    "user_id": "u019",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 3,
+        "price": 35
+      },
+      {
+        "product_id": "p012",
+        "quantity": 2,
+        "price": 55
+      },
+      {
+        "product_id": "p036",
+        "quantity": 3,
+        "price": 165
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 710,
+    "order_time": "2026-06-08T08:08:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord230",
+    "user_id": "u020",
+    "products": [
+      {
+        "product_id": "p039",
+        "quantity": 2,
+        "price": 130
+      },
+      {
+        "product_id": "p036",
+        "quantity": 1,
+        "price": 165
+      },
+      {
+        "product_id": "p040",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 480,
+    "order_time": "2026-06-08T15:32:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord231",
+    "user_id": "u021",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p022",
+        "quantity": 2,
+        "price": 180
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 495,
+    "order_time": "2026-06-08T19:33:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord232",
+    "user_id": "u022",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 275,
+    "order_time": "2026-06-08T21:25:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord233",
+    "user_id": "u023",
+    "products": [
+      {
+        "product_id": "p034",
+        "quantity": 3,
+        "price": 140
+      },
+      {
+        "product_id": "p035",
+        "quantity": 3,
+        "price": 95
+      },
+      {
+        "product_id": "p032",
+        "quantity": 2,
+        "price": 50
+      },
+      {
+        "product_id": "p031",
+        "quantity": 2,
+        "price": 15
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 835,
+    "order_time": "2026-06-09T00:23:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord234",
+    "user_id": "u024",
+    "products": [
+      {
+        "product_id": "p046",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p047",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p050",
+        "quantity": 2,
+        "price": 250
+      },
+      {
+        "product_id": "p023",
+        "quantity": 3,
+        "price": 120
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 990,
+    "order_time": "2026-06-09T05:46:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord235",
+    "user_id": "u025",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 3,
+        "price": 110
+      },
+      {
+        "product_id": "p018",
+        "quantity": 3,
+        "price": 125
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 705,
+    "order_time": "2026-06-09T11:09:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord236",
+    "user_id": "u026",
+    "products": [
+      {
+        "product_id": "p041",
+        "quantity": 3,
+        "price": 110
+      },
+      {
+        "product_id": "p043",
+        "quantity": 1,
+        "price": 135
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 465,
+    "order_time": "2026-06-09T13:01:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord237",
+    "user_id": "u027",
+    "products": [
+      {
+        "product_id": "p056",
+        "quantity": 3,
+        "price": 80
+      },
+      {
+        "product_id": "p041",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "product_id": "p057",
+        "quantity": 2,
+        "price": 120
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 590,
+    "order_time": "2026-06-09T19:55:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord238",
+    "user_id": "u028",
+    "products": [
+      {
+        "product_id": "p017",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p016",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 380,
+    "order_time": "2026-06-09T22:11:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord239",
+    "user_id": "u029",
+    "products": [
+      {
+        "product_id": "p009",
+        "quantity": 3,
+        "price": 80
+      },
+      {
+        "product_id": "p008",
+        "quantity": 3,
+        "price": 35
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 345,
+    "order_time": "2026-06-10T02:39:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord240",
+    "user_id": "u030",
+    "products": [
+      {
+        "product_id": "p011",
+        "quantity": 3,
+        "price": 25
+      },
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 135,
+    "order_time": "2026-06-10T05:19:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord241",
+    "user_id": "u001",
+    "products": [
+      {
+        "product_id": "p003",
+        "quantity": 2,
+        "price": 60
+      },
+      {
+        "product_id": "p019",
+        "quantity": 3,
+        "price": 110
+      },
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 750,
+    "order_time": "2026-06-10T10:07:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord242",
+    "user_id": "u002",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      },
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 325,
+    "order_time": "2026-06-10T12:18:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord243",
+    "user_id": "u003",
+    "products": [
+      {
+        "product_id": "p013",
+        "quantity": 3,
+        "price": 50
+      },
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p014",
+        "quantity": 1,
+        "price": 40
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 270,
+    "order_time": "2026-06-10T17:52:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord244",
+    "user_id": "u004",
+    "products": [
+      {
+        "product_id": "p036",
+        "quantity": 1,
+        "price": 165
+      },
+      {
+        "product_id": "p012",
+        "quantity": 3,
+        "price": 55
+      },
+      {
+        "product_id": "p008",
+        "quantity": 3,
+        "price": 35
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 435,
+    "order_time": "2026-06-10T21:15:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord245",
+    "user_id": "u005",
+    "products": [
+      {
+        "product_id": "p036",
+        "quantity": 1,
+        "price": 165
+      },
+      {
+        "product_id": "p038",
+        "quantity": 1,
+        "price": 145
+      },
+      {
+        "product_id": "p039",
+        "quantity": 2,
+        "price": 130
+      },
+      {
+        "product_id": "p037",
+        "quantity": 2,
+        "price": 285
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 1140,
+    "order_time": "2026-06-11T03:06:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord246",
+    "user_id": "u006",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p022",
+        "quantity": 3,
+        "price": 180
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 630,
+    "order_time": "2026-06-11T07:30:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord247",
+    "user_id": "u007",
+    "products": [
+      {
+        "product_id": "p022",
+        "quantity": 2,
+        "price": 180
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 495,
+    "order_time": "2026-06-11T08:58:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord248",
+    "user_id": "u008",
+    "products": [
+      {
+        "product_id": "p032",
+        "quantity": 2,
+        "price": 50
+      },
+      {
+        "product_id": "p034",
+        "quantity": 1,
+        "price": 140
+      },
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      },
+      {
+        "product_id": "p035",
+        "quantity": 2,
+        "price": 95
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 445,
+    "order_time": "2026-06-11T15:11:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord249",
+    "user_id": "u009",
+    "products": [
+      {
+        "product_id": "p046",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p047",
+        "quantity": 3,
+        "price": 20
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 150,
+    "order_time": "2026-06-11T16:59:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord250",
+    "user_id": "u010",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "product_id": "p018",
+        "quantity": 3,
+        "price": 125
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 485,
+    "order_time": "2026-06-11T23:17:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord251",
+    "user_id": "u011",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      },
+      {
+        "product_id": "p041",
+        "quantity": 2,
+        "price": 110
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 625,
+    "order_time": "2026-06-12T02:45:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord252",
+    "user_id": "u012",
+    "products": [
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      },
+      {
+        "product_id": "p057",
+        "quantity": 3,
+        "price": 120
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 765,
+    "order_time": "2026-06-12T05:11:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord253",
+    "user_id": "u013",
+    "products": [
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      },
+      {
+        "product_id": "p017",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p010",
+        "quantity": 1,
+        "price": 20
+      },
+      {
+        "product_id": "p016",
+        "quantity": 1,
+        "price": 40
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 280,
+    "order_time": "2026-06-12T09:30:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord254",
+    "user_id": "u014",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      },
+      {
+        "product_id": "p009",
+        "quantity": 1,
+        "price": 80
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 150,
+    "order_time": "2026-06-12T15:48:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord255",
+    "user_id": "u015",
+    "products": [
+      {
+        "product_id": "p012",
+        "quantity": 2,
+        "price": 55
+      },
+      {
+        "product_id": "p015",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 240,
+    "order_time": "2026-06-12T17:03:00",
+    "delivery_time_minutes": 18,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord256",
+    "user_id": "u016",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 200,
+    "order_time": "2026-06-12T22:44:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord257",
+    "user_id": "u017",
+    "products": [
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      },
+      {
+        "product_id": "p015",
+        "quantity": 1,
+        "price": 30
+      },
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 295,
+    "order_time": "2026-06-13T01:29:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord258",
+    "user_id": "u018",
+    "products": [
+      {
+        "product_id": "p013",
+        "quantity": 3,
+        "price": 50
+      },
+      {
+        "product_id": "p016",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p014",
+        "quantity": 1,
+        "price": 40
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 310,
+    "order_time": "2026-06-13T05:43:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord259",
+    "user_id": "u019",
+    "products": [
+      {
+        "product_id": "p036",
+        "quantity": 3,
+        "price": 165
+      },
+      {
+        "product_id": "p012",
+        "quantity": 3,
+        "price": 55
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 660,
+    "order_time": "2026-06-13T10:04:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord260",
+    "user_id": "u020",
+    "products": [
+      {
+        "product_id": "p037",
+        "quantity": 3,
+        "price": 285
+      },
+      {
+        "product_id": "p038",
+        "quantity": 3,
+        "price": 145
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 1290,
+    "order_time": "2026-06-13T13:10:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord261",
+    "user_id": "u021",
+    "products": [
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p023",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p005",
+        "quantity": 1,
+        "price": 45
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 630,
+    "order_time": "2026-06-13T19:51:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord262",
+    "user_id": "u022",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p022",
+        "quantity": 3,
+        "price": 180
+      },
+      {
+        "product_id": "p025",
+        "quantity": 1,
+        "price": 70
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 700,
+    "order_time": "2026-06-13T23:43:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord263",
+    "user_id": "u023",
+    "products": [
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      },
+      {
+        "product_id": "p032",
+        "quantity": 1,
+        "price": 50
+      },
+      {
+        "product_id": "p034",
+        "quantity": 3,
+        "price": 140
+      },
+      {
+        "product_id": "p035",
+        "quantity": 1,
+        "price": 95
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 610,
+    "order_time": "2026-06-14T00:27:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord264",
+    "user_id": "u024",
+    "products": [
+      {
+        "product_id": "p046",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p050",
+        "quantity": 1,
+        "price": 250
+      },
+      {
+        "product_id": "p023",
+        "quantity": 2,
+        "price": 120
+      },
+      {
+        "product_id": "p047",
+        "quantity": 2,
+        "price": 20
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 590,
+    "order_time": "2026-06-14T05:49:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord265",
+    "user_id": "u025",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 2,
+        "price": 110
+      },
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 470,
+    "order_time": "2026-06-14T11:24:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord266",
+    "user_id": "u026",
+    "products": [
+      {
+        "product_id": "p042",
+        "quantity": 1,
+        "price": 45
+      },
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      },
+      {
+        "product_id": "p044",
+        "quantity": 2,
+        "price": 210
+      },
+      {
+        "product_id": "p041",
+        "quantity": 3,
+        "price": 110
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 1200,
+    "order_time": "2026-06-14T13:46:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord267",
+    "user_id": "u027",
+    "products": [
+      {
+        "product_id": "p037",
+        "quantity": 2,
+        "price": 285
+      },
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 975,
+    "order_time": "2026-06-14T19:34:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord268",
+    "user_id": "u028",
+    "products": [
+      {
+        "product_id": "p017",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 1,
+        "price": 50
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 130,
+    "order_time": "2026-06-14T22:12:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord269",
+    "user_id": "u029",
+    "products": [
+      {
+        "product_id": "p009",
+        "quantity": 1,
+        "price": 80
+      },
+      {
+        "product_id": "p008",
+        "quantity": 1,
+        "price": 35
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 115,
+    "order_time": "2026-06-15T00:06:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord270",
+    "user_id": "u030",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p012",
+        "quantity": 3,
+        "price": 55
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 255,
+    "order_time": "2026-06-15T04:15:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord271",
+    "user_id": "u001",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "product_id": "p003",
+        "quantity": 1,
+        "price": 60
+      },
+      {
+        "product_id": "p021",
+        "quantity": 1,
+        "price": 45
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 215,
+    "order_time": "2026-06-15T10:14:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord272",
+    "user_id": "u002",
+    "products": [
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      },
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      },
+      {
+        "product_id": "p018",
+        "quantity": 3,
+        "price": 125
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 450,
+    "order_time": "2026-06-15T13:26:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord273",
+    "user_id": "u003",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 3,
+        "price": 20
+      },
+      {
+        "product_id": "p016",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 2,
+        "price": 50
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 280,
+    "order_time": "2026-06-15T19:03:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord274",
+    "user_id": "u004",
+    "products": [
+      {
+        "product_id": "p036",
+        "quantity": 3,
+        "price": 165
+      },
+      {
+        "product_id": "p012",
+        "quantity": 2,
+        "price": 55
+      },
+      {
+        "product_id": "p008",
+        "quantity": 2,
+        "price": 35
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 675,
+    "order_time": "2026-06-15T21:19:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord275",
+    "user_id": "u005",
+    "products": [
+      {
+        "product_id": "p036",
+        "quantity": 1,
+        "price": 165
+      },
+      {
+        "product_id": "p040",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 220,
+    "order_time": "2026-06-16T02:54:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord276",
+    "user_id": "u006",
+    "products": [
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      },
+      {
+        "product_id": "p025",
+        "quantity": 3,
+        "price": 70
+      },
+      {
+        "product_id": "p022",
+        "quantity": 1,
+        "price": 180
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 525,
+    "order_time": "2026-06-16T07:15:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord277",
+    "user_id": "u007",
+    "products": [
+      {
+        "product_id": "p022",
+        "quantity": 1,
+        "price": 180
+      },
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 320,
+    "order_time": "2026-06-16T10:05:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord278",
+    "user_id": "u008",
+    "products": [
+      {
+        "product_id": "p032",
+        "quantity": 3,
+        "price": 50
+      },
+      {
+        "product_id": "p031",
+        "quantity": 3,
+        "price": 15
+      },
+      {
+        "product_id": "p035",
+        "quantity": 3,
+        "price": 95
+      },
+      {
+        "product_id": "p034",
+        "quantity": 1,
+        "price": 140
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 620,
+    "order_time": "2026-06-16T12:12:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord279",
+    "user_id": "u009",
+    "products": [
+      {
+        "product_id": "p047",
+        "quantity": 2,
+        "price": 20
+      },
+      {
+        "product_id": "p023",
+        "quantity": 1,
+        "price": 120
+      },
+      {
+        "product_id": "p046",
+        "quantity": 1,
+        "price": 30
+      },
+      {
+        "product_id": "p050",
+        "quantity": 1,
+        "price": 250
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 440,
+    "order_time": "2026-06-16T16:47:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord280",
+    "user_id": "u010",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 1,
+        "price": 125
+      },
+      {
+        "product_id": "p019",
+        "quantity": 3,
+        "price": 110
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 455,
+    "order_time": "2026-06-16T22:49:00",
+    "delivery_time_minutes": 12,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord281",
+    "user_id": "u011",
+    "products": [
+      {
+        "product_id": "p044",
+        "quantity": 2,
+        "price": 210
+      },
+      {
+        "product_id": "p043",
+        "quantity": 2,
+        "price": 135
+      },
+      {
+        "product_id": "p042",
+        "quantity": 2,
+        "price": 45
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 780,
+    "order_time": "2026-06-17T03:29:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord282",
+    "user_id": "u012",
+    "products": [
+      {
+        "product_id": "p056",
+        "quantity": 2,
+        "price": 80
+      },
+      {
+        "product_id": "p043",
+        "quantity": 2,
+        "price": 135
+      },
+      {
+        "product_id": "p037",
+        "quantity": 1,
+        "price": 285
+      },
+      {
+        "product_id": "p041",
+        "quantity": 3,
+        "price": 110
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 1045,
+    "order_time": "2026-06-17T05:47:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord283",
+    "user_id": "u013",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 3,
+        "price": 20
+      },
+      {
+        "product_id": "p013",
+        "quantity": 3,
+        "price": 50
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 210,
+    "order_time": "2026-06-17T11:18:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord284",
+    "user_id": "u014",
+    "products": [
+      {
+        "product_id": "p009",
+        "quantity": 2,
+        "price": 80
+      },
+      {
+        "product_id": "p008",
+        "quantity": 3,
+        "price": 35
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 265,
+    "order_time": "2026-06-17T13:31:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord285",
+    "user_id": "u015",
+    "products": [
+      {
+        "product_id": "p012",
+        "quantity": 2,
+        "price": 55
+      },
+      {
+        "product_id": "p011",
+        "quantity": 1,
+        "price": 25
+      },
+      {
+        "product_id": "p015",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p010",
+        "quantity": 2,
+        "price": 20
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 265,
+    "order_time": "2026-06-17T17:08:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord286",
+    "user_id": "u016",
+    "products": [
+      {
+        "product_id": "p003",
+        "quantity": 1,
+        "price": 60
+      },
+      {
+        "product_id": "p001",
+        "quantity": 1,
+        "price": 32
+      },
+      {
+        "product_id": "p021",
+        "quantity": 3,
+        "price": 45
+      }
+    ],
+    "intent": "healthy breakfast",
+    "total_amount": 227,
+    "order_time": "2026-06-17T20:48:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord287",
+    "user_id": "u017",
+    "products": [
+      {
+        "product_id": "p018",
+        "quantity": 3,
+        "price": 125
+      },
+      {
+        "product_id": "p015",
+        "quantity": 1,
+        "price": 30
+      },
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      }
+    ],
+    "intent": "late night study",
+    "total_amount": 420,
+    "order_time": "2026-06-18T01:32:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord288",
+    "user_id": "u018",
+    "products": [
+      {
+        "product_id": "p010",
+        "quantity": 3,
+        "price": 20
+      },
+      {
+        "product_id": "p016",
+        "quantity": 2,
+        "price": 40
+      },
+      {
+        "product_id": "p014",
+        "quantity": 1,
+        "price": 40
+      }
+    ],
+    "intent": "movie night",
+    "total_amount": 180,
+    "order_time": "2026-06-18T04:34:00",
+    "delivery_time_minutes": 16,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord289",
+    "user_id": "u019",
+    "products": [
+      {
+        "product_id": "p008",
+        "quantity": 3,
+        "price": 35
+      },
+      {
+        "product_id": "p036",
+        "quantity": 2,
+        "price": 165
+      },
+      {
+        "product_id": "p012",
+        "quantity": 1,
+        "price": 55
+      }
+    ],
+    "intent": "tea time snacks",
+    "total_amount": 490,
+    "order_time": "2026-06-18T11:51:00",
+    "delivery_time_minutes": 10,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord290",
+    "user_id": "u020",
+    "products": [
+      {
+        "product_id": "p037",
+        "quantity": 1,
+        "price": 285
+      },
+      {
+        "product_id": "p038",
+        "quantity": 1,
+        "price": 145
+      }
+    ],
+    "intent": "monthly grocery",
+    "total_amount": 430,
+    "order_time": "2026-06-18T14:52:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord291",
+    "user_id": "u021",
+    "products": [
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      },
+      {
+        "product_id": "p021",
+        "quantity": 2,
+        "price": 45
+      },
+      {
+        "product_id": "p022",
+        "quantity": 3,
+        "price": 180
+      }
+    ],
+    "intent": "healthy lifestyle",
+    "total_amount": 770,
+    "order_time": "2026-06-18T17:44:00",
+    "delivery_time_minutes": 11,
+    "order_status": "delivered",
+    "budget_range": "700-1000",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord292",
+    "user_id": "u022",
+    "products": [
+      {
+        "product_id": "p001",
+        "quantity": 1,
+        "price": 32
+      },
+      {
+        "product_id": "p022",
+        "quantity": 2,
+        "price": 180
+      },
+      {
+        "product_id": "p025",
+        "quantity": 2,
+        "price": 70
+      }
+    ],
+    "intent": "fitness nutrition",
+    "total_amount": 532,
+    "order_time": "2026-06-18T23:35:00",
+    "delivery_time_minutes": 15,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord293",
+    "user_id": "u023",
+    "products": [
+      {
+        "product_id": "p031",
+        "quantity": 1,
+        "price": 15
+      },
+      {
+        "product_id": "p034",
+        "quantity": 1,
+        "price": 140
+      }
+    ],
+    "intent": "quick meals",
+    "total_amount": 155,
+    "order_time": "2026-06-19T03:54:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord294",
+    "user_id": "u024",
+    "products": [
+      {
+        "product_id": "p050",
+        "quantity": 1,
+        "price": 250
+      },
+      {
+        "product_id": "p023",
+        "quantity": 1,
+        "price": 120
+      },
+      {
+        "product_id": "p046",
+        "quantity": 3,
+        "price": 30
+      },
+      {
+        "product_id": "p047",
+        "quantity": 3,
+        "price": 20
+      }
+    ],
+    "intent": "sick day",
+    "total_amount": 520,
+    "order_time": "2026-06-19T07:17:00",
+    "delivery_time_minutes": 8,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord295",
+    "user_id": "u025",
+    "products": [
+      {
+        "product_id": "p019",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "product_id": "p018",
+        "quantity": 2,
+        "price": 125
+      }
+    ],
+    "intent": "energy boost",
+    "total_amount": 360,
+    "order_time": "2026-06-19T08:13:00",
+    "delivery_time_minutes": 17,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  },
+  {
+    "order_id": "ord296",
+    "user_id": "u026",
+    "products": [
+      {
+        "product_id": "p044",
+        "quantity": 2,
+        "price": 210
+      },
+      {
+        "product_id": "p041",
+        "quantity": 1,
+        "price": 110
+      }
+    ],
+    "intent": "personal care essentials",
+    "total_amount": 530,
+    "order_time": "2026-06-19T13:36:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "400-700",
+    "warehouse_id": "W001"
+  },
+  {
+    "order_id": "ord297",
+    "user_id": "u027",
+    "products": [
+      {
+        "product_id": "p057",
+        "quantity": 3,
+        "price": 120
+      },
+      {
+        "product_id": "p043",
+        "quantity": 3,
+        "price": 135
+      },
+      {
+        "product_id": "p041",
+        "quantity": 1,
+        "price": 110
+      },
+      {
+        "product_id": "p037",
+        "quantity": 3,
+        "price": 285
+      }
+    ],
+    "intent": "family essentials",
+    "total_amount": 1730,
+    "order_time": "2026-06-19T18:03:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "1000+",
+    "warehouse_id": "W002"
+  },
+  {
+    "order_id": "ord298",
+    "user_id": "u028",
+    "products": [
+      {
+        "product_id": "p017",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p016",
+        "quantity": 3,
+        "price": 40
+      },
+      {
+        "product_id": "p013",
+        "quantity": 3,
+        "price": 50
+      }
+    ],
+    "intent": "party beverages",
+    "total_amount": 390,
+    "order_time": "2026-06-19T23:49:00",
+    "delivery_time_minutes": 13,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W003"
+  },
+  {
+    "order_id": "ord299",
+    "user_id": "u029",
+    "products": [
+      {
+        "product_id": "p009",
+        "quantity": 2,
+        "price": 80
+      },
+      {
+        "product_id": "p008",
+        "quantity": 1,
+        "price": 35
+      }
+    ],
+    "intent": "bakery treats",
+    "total_amount": 195,
+    "order_time": "2026-06-20T02:35:00",
+    "delivery_time_minutes": 14,
+    "order_status": "delivered",
+    "budget_range": "0-200",
+    "warehouse_id": "W004"
+  },
+  {
+    "order_id": "ord300",
+    "user_id": "u030",
+    "products": [
+      {
+        "product_id": "p011",
+        "quantity": 1,
+        "price": 25
+      },
+      {
+        "product_id": "p012",
+        "quantity": 3,
+        "price": 55
+      },
+      {
+        "product_id": "p015",
+        "quantity": 2,
+        "price": 30
+      }
+    ],
+    "intent": "snacking",
+    "total_amount": 250,
+    "order_time": "2026-06-20T05:45:00",
+    "delivery_time_minutes": 9,
+    "order_status": "delivered",
+    "budget_range": "200-400",
+    "warehouse_id": "W005"
+  }
+]
